@@ -1,5 +1,27 @@
 # ai-immigrants
 
+## Tools
+
+Online Markdown Editor: https://stackedit.io/app
+
+Local Markdown Editor: [https://typora.io](https://typora.io/)
+
+LLM: https://chatgpt.com/
+
+Version Control: https://github.com/DevOpsKev/deus-ex-machina
+
+ISBN: https://www.nielsenisbnstore.com/
+
+Print on Demand and Distribution: https://www.ingramspark.com/
+
+Publishing Professional Network: https://reedsy.com/
+
+Audiobook Generation: https://elevenlabs.io/
+
+---
+
+## Chapters
+
 ### **Chapter 1: The Bloody Algos Are Here**
 
 - **Opening hook:** Introduce AI as the "new immigrant" in society.
