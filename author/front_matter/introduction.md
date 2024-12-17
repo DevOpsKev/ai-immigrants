@@ -12,7 +12,7 @@ Even those developing AI struggle to define it in simple terms. The best definit
 
 And yes, there’s a reason I’m calling them *immigrants.* Just like people from new places arriving in a community, AI comes with its own potential, its own disruption, and its own baggage. Some of us welcome it. Others resist it. Most are just trying to figure out where they stand. The parallels between fears around immigration and AI are striking—and they reveal a lot about human nature. Fear of the unknown. Fear of change. Fear of being left behind. But just as with people, how we choose to respond to AI will determine the kind of society we build.
 
-This book aims to democratize knowledge, because knowledge is power. When you understand something, you can influence it. You can exercise your democratic rights and demand accountability. You can spot when someone is attempting to erode your hard-won birth right as a citizen in a democratic nation.
+This book aims to democratize knowledge, because knowledge is power. When you understand something, you can influence it. You can exercise your democratic rights and demand accountability. You can spot when someone is attempting to erode your hard-won birthright as a citizen in a democratic nation.
 
 You don’t need a computer science degree to understand what’s going on. You don’t need to be a tech expert to take control of your future. But you do need to know the truth about AI: what it is, what it isn’t, and how it impacts you.
 
