@@ -4,9 +4,9 @@
 
 ## The Bloody Algos Are Here
 
-This book has a British attitude—it can’t be helped; I’m British, and I’m writing it. That perspective shapes how I view immigration, and to understand immigration, you first need to consider what it means to be “native.” The line between becoming British and ceasing to be an immigrant is surprisingly fuzzy. It’s often tied to class—those high up in the establishment seem to cling more tightly to the idea of being native.
+This book has a British attitude—it can’t be helped; I’m British, and I’m writing it. That perspective shapes how I view immigration, and to understand immigration, you first need to consider what it means to be “native.” The line between becoming British and ceasing to be an immigrant is surprisingly fuzzy. It’s often tied to class—those perched high in the establishment cling most tightly to the idea of being native. **The Establishment**—that quintessentially British term for the people who know how everything works, know everyone who ensures it works to their advantage, and are perfectly comfortable with the status quo, thank you very much.
 
-But even at the top of British society, we’re immigrants. King Charles himself hails from German stock, with his lineage tracing back to King George I of Hanover, who ascended the throne in 1714. Queen Victoria, reigning at the height of empire, still had close ties to Hanover, underscoring the monarchy’s European roots.
+But even at the very top of the British Establishment, we’re immigrants. King Charles himself hails from German stock, his lineage tracing back to King George I of Hanover, who ascended the throne in 1714. Queen Victoria, reigning at the height of the empire, still maintained close ties to Hanover, underscoring the monarchy’s deeply European roots.
 
 That connection persisted until World War I, when anti-German sentiment led King George V to rebrand the royal family from the House of Saxe-Coburg and Gotha to the House of Windsor—a brilliant exercise in public relations. Even King Charles’s father, Prince Philip, carried both Greek and German heritage, embracing his outsider status with wit. During a visit to Scotland, he famously quipped: “How do you keep the natives off the booze long enough to pass the test?”
 
@@ -20,7 +20,7 @@ Hold on to that humor and irreverence—it’ll serve you well as we navigate wh
 
 These new immigrants are already among us. They’re everywhere. They wield incredible power and influence, and they’ve already infiltrated your homes, your personal life, your relationships, your government, and your workplace. They know your most intimate details—cataloging, analyzing, and archiving every family photo, every message to your loved ones, every click you make, every word you type, and every step you take.
 
-But these immigrants are unlike any who have come before—they are the most profoundly alien newcomers ever to enter our society.
+But these newcomers are unlike any who have come before—they are the most profoundly alien arrivals ever to enter our society.
 
 
 
