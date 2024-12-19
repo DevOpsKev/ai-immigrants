@@ -22,6 +22,12 @@ These new immigrants are already among us. They’re everywhere. They wield incr
 
 But these newcomers are unlike any who have come before—they are the most profoundly alien arrivals ever to enter our society.
 
+---
+
+Notes and Ideas:
+
+This wave of immigration has not got off to the best start, nothing does when conducted through secrecy and surveillance for the benefit of hidden agendas.
+
 
 
 
