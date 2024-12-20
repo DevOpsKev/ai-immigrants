@@ -68,7 +68,15 @@ Hold on to that humor and irreverence—it’ll serve you well as we navigate wh
 
 These new immigrants are already among us. They’re everywhere. They wield incredible power and influence, and they’ve already infiltrated your homes, your personal life, your relationships, your government, and your workplace. They know your most intimate details—cataloging, analyzing, and archiving every family photo, every message to your loved ones, every click you make, every word you type, and every step you take.
 
-But these newcomers are unlike any who have come before—they are the most profoundly alien arrivals ever to enter our society.
+Unlike any who have come before, these newcomers are profoundly alien. They don’t share our history, our culture, or our values. They are not constrained by borders or customs. They don’t need visas or passports. These new immigrants are algorithms—artificial intelligences—slipping seamlessly into every aspect of our lives, reshaping the world we thought we understood.
+
+If we do not course-correct as a society, these new-wave immigrants threaten not just British society but the very idea of what it means to be British. From our traditions and institutions to our identity and values, no aspect of life is beyond their reach. On every level—cultural, political, and economic—these entities challenge our autonomy, our humanity, and our future.
+
+And yet, this transformation is happening in plain sight, enabled by an unwitting accomplice: Britain’s long-standing, often inscrutable system of bureaucracy and societal networks—**The Establishment**. This alternate strata of British life, largely unnoticed by the average Brit, has always existed to manage power discreetly, ensuring the status quo remains intact. But now, this entrenched system provides the perfect mechanism for a more insidious transition: the establishment of a new power base. An AI Establishment.
+
+Without intervention, this new Establishment could supplant the old, embedding artificial intelligences at the heart of our governance, our industries, and our culture. The AIs wouldn’t need to storm the gates; they’d simply be welcomed in, quietly assuming control, one decision at a time, until they hold sway over the very fabric of our society. The question is not whether this is possible—it’s how far it has already gone and whether we still have time to reclaim our agency.
+
+As we stand at this turning point, the lyrics of *Won’t Get Fooled Again* by that quintessentially British band, The Who, feel more relevant than ever. Available on classic vinyl, recorded in an analog studio—don’t trust the digital download. Get down to your local second-hand record shop and make sure you get the real deal in all its authentic glory. On-demand deepfakes are just too easy these days.
 
 ### The Alien Invasion
 
