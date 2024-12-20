@@ -82,7 +82,74 @@ As we stand at this turning point, the lyrics of *Won’t Get Fooled Again* by t
 
 ---
 
+## End Notes:
 
+Associated Press. (2024, December 19). *Immigration drives US population growth to highest rate in 23 years as residents pass 340 million*. Retrieved from https://apnews.com/article/8ace336aaef647280a941065658d8fd0
 
+World Population Review. (n.d.). *Percentage of illegal immigrants by country*. Retrieved from https://worldpopulationreview.com/country-rankings/percentage-of-illegal-immigrants-by-country
 
+Reuters. (2024, December 19). *US deportations rose to decade high in fiscal 2024, outpacing Trump years*. Retrieved from https://www.reuters.com/world/us/us-deportations-rose-decade-high-fiscal-2024-outpacing-trump-years-2024-12-19/
 
+Pew Research Center. (2019, November 13). *Four countries account for the majority of Europe’s unauthorized immigrant population*. Retrieved from https://www.pewresearch.org/social-trends/2019/11/13/four-countries-account-for-the-majority-of-europes-unauthorized-immigrant-population
+
+Financial Times. (2024, December 18). *Sweden breaks with its liberal past on migration*. Retrieved from https://www.ft.com/content/e6fea832-899b-43b3-8e39-2399866de6fe
+
+Pew Research Center. (2024, July 8). *In some countries, immigration accounted for all population growth between 2000 and 2020*. Retrieved from https://www.pewresearch.org/short-reads/2024/07/08/in-some-countries-immigration-accounted-for-all-population-growth-between-2000-and-2020
+
+International Organization for Migration. (2024). *World Migration Report 2024: Interactive edition*. Retrieved from https://worldmigrationreport.iom.int/msite/wmr-2024-interactive
+
+Migration Observatory. (2024). *Immigration, diversity, and social cohesion*. University of Oxford. Retrieved from https://migrationobservatory.ox.ac.uk/resources/briefings/immigration-diversity-and-social-cohesion
+
+NatCen Social Research. (n.d.). *British social attitudes: Growing polarisation in attitudes towards immigration*. Retrieved from https://natcen.ac.uk/news/british-social-attitudes-growing-polarisation-attitudes-towards-immigration
+
+The Guardian. (2016, June 16). *Nigel Farage's 'Breaking Point' poster reported to police*. Retrieved from https://www.theguardian.com/politics/2016/jun/16/nigel-farage-breaking-point-poster-reported-to-police
+
+Al Jazeera. (2018, July 24). *How Hungary's Orbán used fear of immigrants to rise to power*. Retrieved from https://www.aljazeera.com/features/2018/7/24/how-hungarys-orban-used-fear-of-immigrants-to-rise-to-power
+
+The Prison Reform Trust. (n.d.). *The prison hulks: Their use in British history*. Retrieved from https://www.prisonreformtrust.org.uk/prison-hulks-history
+
+The Guardian. (2023, November 17). *Asylum seekers crossing the Channel: The figures and the stories behind the headlines*. Retrieved from https://www.theguardian.com/uk
+
+The Independent. (2023, October 22). *The legacy of Dunkirk: A story of resilience and identity in British history*. Retrieved from https://www.independent.co.uk
+
+The Telegraph. (2023, December 5). *Government's controversial Rwanda deportation scheme: Analysis and criticism*. Retrieved from https://www.telegraph.co.uk
+
+BBC History. (n.d.). *The Norman Conquest*. Retrieved from https://www.bbc.co.uk/history
+
+Encyclopaedia Britannica. (n.d.). *Edward III*. Retrieved from https://www.britannica.com/biography/Edward-III-king-of-England
+
+BBC History Extra. (2020, October 22). *The Battle of Agincourt: Everything you need to know*. Retrieved from https://www.historyextra.com
+
+The Guardian. (2022, December 6). *King George V: The royal family’s wartime rebranding to Windsor*. Retrieved from https://www.theguardian.com
+
+The Guardian. (2018, June 13). *How Brexit leaders Boris Johnson and Nigel Farage used immigration fears*. Retrieved from https://www.theguardian.com
+
+The Independent. (2016, June 16). *Nigel Farage’s ancestry and the Huguenot connection*. Retrieved from https://www.independent.co.uk
+
+History Extra. (n.d.). *Huguenot migration to Britain*. Retrieved from https://www.historyextra.com
+
+Migration Observatory. (2023). *EU migration and free movement in Britain*. University of Oxford. Retrieved from https://migrationobservatory.ox.ac.uk
+
+Pew Research Center. (2019, November 13). *Refugee and asylum trends globally and in the UK*. Retrieved from https://www.pewresearch.org
+
+Bryson, J. J., & Theodorou, A. (2019). How society can maintain human-centric artificial intelligence. *The Royal Society*, 376(2133), 20180160. https://doi.org/10.1098/rsta.2018.0160
+
+Crawford, K. (2021). *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*. Yale University Press.
+
+O'Neil, C. (2016). *Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*. Crown.
+
+Zuboff, S. (2019). *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*. PublicAffairs.
+
+Bridle, J. (2018). *New Dark Age: Technology and the End of the Future*. Verso.
+
+McCarthy, T., & Wright, P. (2020). Artificial intelligence and the public sphere: Toward a democratic future. *AI & Society, 35*(1), 1-15. https://doi.org/10.1007/s00146-020-01008-y
+
+European Commission. (2021). *A European approach to artificial intelligence*. Retrieved from https://ec.europa.eu/digital-strategy/en
+
+Singer, P. W., & Brooking, E. T. (2018). *LikeWar: The Weaponization of Social Media*. Houghton Mifflin Harcourt.
+
+Dastin, J. (2018, October 10). Amazon scraps secret AI recruiting tool that showed bias against women. *Reuters*. Retrieved from https://www.reuters.com
+
+The Who. (1971). *Won’t Get Fooled Again* [Song]. On *Who’s Next*. Track Records.
+
+British Library. (n.d.). *St. George and the dragon: Origins and myths*. Retrieved from https://www.bl.uk
