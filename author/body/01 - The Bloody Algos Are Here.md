@@ -1,8 +1,4 @@
-
-
-
-
-# The Bloody Algos Are Here
+## The Bloody Algos Are Here
 
 Immigration is one of the most pressing and emotive issues of our time, dominating national politics and global discourse. Across the developed world, democratic nations are grappling with the challenges posed by immigration, particularly illegal immigration. The scale of the issue is staggering, with significant increases in migrant populations and a rapid acceleration in migration numbers reshaping societies and economies alike.
 
@@ -30,9 +26,17 @@ Even without the pressures of immigration, simply managing their own needs is pu
 
 As immigration continues to shape the national conversation, it challenges not just policies and borders but also Britain’s identity and values. The current crisis forces the country to confront uncomfortable questions about fairness, responsibility, and the limits of compassion in an increasingly divided society. But as pressing as these challenges are, they pale in comparison to what lies ahead. The rate of human immigration and its impact on British society is nothing compared to the silent, exponential arrival of the AI Algos—newcomers whose influence is already reshaping every aspect of our lives. The question is not just how the UK manages immigration, but how it reconciles these pressures with the principles it claims to uphold.
 
-## A Mongrel Nation
+### A Mongrel Nation
 
-This book has a British attitude—it can’t be helped; I’m British, and I’m writing it. That perspective shapes how I view immigration, and to understand immigration, you first need to consider what it means to be “native.” The line between becoming British and ceasing to be an immigrant is surprisingly fuzzy. It’s often tied to class—those perched high in the establishment cling most tightly to the idea of being native. **The Establishment**—that quintessentially British term for the people who know how everything works, know everyone who ensures it works to their advantage, and are perfectly comfortable with the status quo, thank you very much.
+This book has a British attitude—it can’t be helped; I’m British, and I’m writing it.
+
+Defining “British” is no easy task. Is it the geography of Britain, the political entity of the United Kingdom, or the broader British Isles—a term that includes Ireland and carries political sensitivities? The former British Empire expanded this identity globally, ruling over a quarter of the world’s landmass at its height, shaping cultures, economies, and politics across continents. Its dissolution gave rise to the Commonwealth, a voluntary association of former colonies and other nations bound by shared values.
+
+Adding to this complex identity are the British Overseas Territories, 14 remnants of the empire that remain under British sovereignty. From Bermuda to Gibraltar, the Falkland Islands to the Cayman Islands, these territories hold strategic, cultural, and economic significance, linking Britain to regions far beyond the shores of the British Isles themselves.
+
+Britain’s support for the recently retired tennis player Andy Murray might sum up the whole business. When he was winning, he was British; when he was losing, he was Scottish. If he’d been English, of course, we wouldn’t have had a choice.
+
+That confused and intangible British perspective shapes how we, the Brits, view immigration. To understand immigration, you first need to grapple with what it means to be “native.” The line between becoming British and ceasing to be an immigrant is surprisingly fuzzy. It’s often tied to class—those perched high in the establishment cling most tightly to the idea of being native. **The Establishment**—that quintessentially British term for the people who know how everything works, know everyone who ensures it works to their advantage, and are perfectly at ease with the status quo, thank you very much.
 
 But even at the very top of the British Establishment, we’re immigrants. King Charles himself hails from German stock, his lineage tracing back to King George I of Hanover, who ascended the throne in 1714. Queen Victoria, reigning at the height of the empire, still maintained close ties to Hanover, underscoring the monarchy’s deeply European roots.
 
@@ -66,53 +70,11 @@ These new immigrants are already among us. They’re everywhere. They wield incr
 
 But these newcomers are unlike any who have come before—they are the most profoundly alien arrivals ever to enter our society.
 
-## The Alien Invasion
+### The Alien Invasion
 
 ---
 
-**End Notes:**
 
-Associated Press. (2024, December 19). *Immigration drives US population growth to highest rate in 23 years as residents pass 340 million*. Retrieved from https://apnews.com/article/8ace336aaef647280a941065658d8fd0
-
-World Population Review. (n.d.). *Percentage of illegal immigrants by country*. Retrieved from https://worldpopulationreview.com/country-rankings/percentage-of-illegal-immigrants-by-country
-
-Reuters. (2024, December 19). *US deportations rose to decade high in fiscal 2024, outpacing Trump years*. Retrieved from https://www.reuters.com/world/us/us-deportations-rose-decade-high-fiscal-2024-outpacing-trump-years-2024-12-19/
-
-Pew Research Center. (2019, November 13). *Four countries account for the majority of Europe’s unauthorized immigrant population*. Retrieved from https://www.pewresearch.org/social-trends/2019/11/13/four-countries-account-for-the-majority-of-europes-unauthorized-immigrant-population
-
-Financial Times. (2024, December 18). *Sweden breaks with its liberal past on migration*. Retrieved from https://www.ft.com/content/e6fea832-899b-43b3-8e39-2399866de6fe
-
-Pew Research Center. (2024, July 8). *In some countries, immigration accounted for all population growth between 2000 and 2020*. Retrieved from https://www.pewresearch.org/short-reads/2024/07/08/in-some-countries-immigration-accounted-for-all-population-growth-between-2000-and-2020
-
-International Organization for Migration. (2024). *World Migration Report 2024: Interactive edition*. Retrieved from https://worldmigrationreport.iom.int/msite/wmr-2024-interactive
-
-Migration Observatory. (2023). *EU migration and free movement in Britain*. University of Oxford. Retrieved from https://migrationobservatory.ox.ac.uk
-
-NatCen Social Research. (2024). *Social attitudes to immigration in Britain*. Retrieved from https://natcen.ac.uk
-
-The Guardian. (2016, June 16). *Nigel Farage's 'Breaking Point' poster reported to police*. Retrieved from https://www.theguardian.com/politics/2016/jun/16/nigel-farage-breaking-point-poster-reported-to-police
-
-Al Jazeera. (2018, July 24). *How Hungary's Orbán used fear of immigrants to rise to power*. Retrieved from https://www.aljazeera.com/features/2018/7/24/how-hungarys-orban-used-fear-of-immigrants-to-rise-to-power
-
-The Telegraph. (2023, December 5). *Government's controversial Rwanda deportation scheme: Analysis and criticism*. Retrieved from https://www.telegraph.co.uk
-
-Prison Reform Trust. (n.d.). *The history of prison hulks in Britain*. Retrieved from https://www.prisonreformtrust.org.uk
-
-BBC History. (n.d.). *The Norman Conquest*. Retrieved from https://www.bbc.co.uk/history
-
-Encyclopaedia Britannica. (n.d.). *Edward III*. Retrieved from https://www.britannica.com/biography/Edward-III-king-of-England
-
-BBC History Extra. (2020, October 22). *The Battle of Agincourt: Everything you need to know*. Retrieved from https://www.historyextra.com
-
-The Guardian. (2022, December 6). *King George V: The royal family’s wartime rebranding to Windsor*. Retrieved from https://www.theguardian.com
-
-History Extra. (n.d.). *Huguenot migration to Britain*. Retrieved from https://www.historyextra.com
-
-British Library. (n.d.). *St. George and the dragon: Origins and myths*. Retrieved from https://www.bl.uk
-
-The Independent. (2023, October 22). *The legacy of Dunkirk: A story of resilience and identity in British history*. Retrieved from https://www.independent.co.uk
-
-Pew Research Center. (2019, November 13). *Refugee and asylum trends globally and in the UK*. Retrieved from https://www.pewresearch.org
 
 
 
