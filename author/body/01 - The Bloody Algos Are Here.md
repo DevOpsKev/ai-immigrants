@@ -68,7 +68,7 @@ But these newcomers are unlike any who have come before—they are the most prof
 
 ---
 
-End Notes:
+**End Notes:**
 
 Associated Press. (2024, December 19). *Immigration drives US population growth to highest rate in 23 years as residents pass 340 million*. Retrieved from https://apnews.com/article/8ace336aaef647280a941065658d8fd0
 
@@ -84,17 +84,33 @@ Pew Research Center. (2024, July 8). *In some countries, immigration accounted f
 
 International Organization for Migration. (2024). *World Migration Report 2024: Interactive edition*. Retrieved from https://worldmigrationreport.iom.int/msite/wmr-2024-interactive
 
-Migration Observatory. (2024). *Immigration, diversity, and social cohesion*. University of Oxford. Retrieved from https://migrationobservatory.ox.ac.uk/resources/briefings/immigration-diversity-and-social-cohesion
+Migration Observatory. (2023). *EU migration and free movement in Britain*. University of Oxford. Retrieved from https://migrationobservatory.ox.ac.uk
 
-NatCen Social Research. (n.d.). *British social attitudes: Growing polarisation in attitudes towards immigration*. Retrieved from https://natcen.ac.uk/news/british-social-attitudes-growing-polarisation-attitudes-towards-immigration
+NatCen Social Research. (2024). *Social attitudes to immigration in Britain*. Retrieved from https://natcen.ac.uk
 
 The Guardian. (2016, June 16). *Nigel Farage's 'Breaking Point' poster reported to police*. Retrieved from https://www.theguardian.com/politics/2016/jun/16/nigel-farage-breaking-point-poster-reported-to-police
 
 Al Jazeera. (2018, July 24). *How Hungary's Orbán used fear of immigrants to rise to power*. Retrieved from https://www.aljazeera.com/features/2018/7/24/how-hungarys-orban-used-fear-of-immigrants-to-rise-to-power
 
-The Prison Reform Trust. (n.d.). *The prison hulks: Their use in British history*. Retrieved from https://www.prisonreformtrust.org.uk/prison-hulks-history
+The Telegraph. (2023, December 5). *Government's controversial Rwanda deportation scheme: Analysis and criticism*. Retrieved from https://www.telegraph.co.uk
 
+Prison Reform Trust. (n.d.). *The history of prison hulks in Britain*. Retrieved from https://www.prisonreformtrust.org.uk
 
+BBC History. (n.d.). *The Norman Conquest*. Retrieved from https://www.bbc.co.uk/history
+
+Encyclopaedia Britannica. (n.d.). *Edward III*. Retrieved from https://www.britannica.com/biography/Edward-III-king-of-England
+
+BBC History Extra. (2020, October 22). *The Battle of Agincourt: Everything you need to know*. Retrieved from https://www.historyextra.com
+
+The Guardian. (2022, December 6). *King George V: The royal family’s wartime rebranding to Windsor*. Retrieved from https://www.theguardian.com
+
+History Extra. (n.d.). *Huguenot migration to Britain*. Retrieved from https://www.historyextra.com
+
+British Library. (n.d.). *St. George and the dragon: Origins and myths*. Retrieved from https://www.bl.uk
+
+The Independent. (2023, October 22). *The legacy of Dunkirk: A story of resilience and identity in British history*. Retrieved from https://www.independent.co.uk
+
+Pew Research Center. (2019, November 13). *Refugee and asylum trends globally and in the UK*. Retrieved from https://www.pewresearch.org
 
 
 
