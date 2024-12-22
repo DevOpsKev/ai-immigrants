@@ -40,7 +40,7 @@ That confused and intangible British perspective shapes how we, the Brits, view 
 
 But even at the very top of the British Establishment, we’re immigrants. King Charles himself hails from German stock, his lineage tracing back to King George I of Hanover, who ascended the throne in 1714. Queen Victoria, reigning at the height of the empire, still maintained close ties to Hanover, underscoring the monarchy’s deeply European roots.
 
-That connection persisted until World War I, when anti-German sentiment compelled King George V to rebrand the royal family from the House of Saxe-Coburg and Gotha to the distinctly British-sounding House of Windsor—a masterstroke in public relations. Even King Charles’s father, Prince Philip, carried both Greek and German heritage and often embraced his outsider status with sharp wit. During a visit to Scotland, he famously quipped to a driving instructor: “How do you keep the natives off the booze long enough to pass the test?”
+That connection persisted until World War I, when anti-German sentiment compelled King George V to rebrand the royal family from the House of Saxe-Coburg and Gotha to the distinctly British-sounding House of Windsor—a masterstroke in public relations. Even King Charles’s father, Prince Philip, carried Danish, Greek and German heritage and often embraced his outsider status with sharp wit. During a visit to Scotland, he famously quipped to a driving instructor: “How do you keep the natives off the booze long enough to pass the test?”
 
 A good definition of a True Brit might be someone who can trace their family tree all the way back to the days of the Battle of Agincourt—perhaps to their 24th great-grandfather, quaffing pints in a British alehouse. In those days, King Edward III had passed a law requiring all able-bodied men to practice archery every Sunday after church. Picture the quintessentially British scene: a strapping lad, longbow in one hand and a pint of real ale in the other, honing his aim by shooting at targets—or perhaps cats in sacks—under the banner of St. George. Could there be a greater symbol of Britishness?
 
@@ -72,84 +72,123 @@ Unlike any who have come before, these newcomers are profoundly alien. They don�
 
 If we do not course-correct as a society, these new-wave immigrants threaten not just British society but the very idea of what it means to be British. From our traditions and institutions to our identity and values, no aspect of life is beyond their reach. On every level—cultural, political, and economic—these entities challenge our autonomy, our humanity, and our future.
 
-And yet, this transformation is happening in plain sight, enabled by an unwitting accomplice: Britain’s long-standing, often inscrutable system of bureaucracy and societal networks—**The Establishment**. This alternate strata of British life, largely unnoticed by the average Brit, has always existed to manage power discreetly, ensuring the status quo remains intact. But now, this entrenched system provides the perfect mechanism for a more insidious transition: the establishment of a new power base. An AI Establishment.
+And yet, this transformation is happening in plain sight, enabled by an unwitting accomplice: Britain’s long-standing, often inscrutable system of bureaucracy and societal networks—**The Establishment**. This alternate strata of British life, largely unnoticed by the average Brit, has always existed to manage power discreetly, ensuring the status quo remains intact. But now, this entrenched system provides the perfect mechanism for a more insidious transition: the establishment of a new power base. **The AI Establishment**.
 
 Without intervention, this new Establishment could supplant the old, embedding artificial intelligences at the heart of our governance, our industries, and our culture. The AIs wouldn’t need to storm the gates; they’d simply be welcomed in, quietly assuming control, one decision at a time, until they hold sway over the very fabric of our society. The question is not whether this is possible—it’s how far it has already gone and whether we still have time to reclaim our agency.
 
-As we stand at this turning point, the lyrics of *Won’t Get Fooled Again* by that quintessentially British band, The Who, feel more relevant than ever. Available on classic vinyl, recorded in an analog studio—don’t trust the digital download. Get down to your local second-hand record shop and make sure you get the real deal in all its authentic glory. On-demand deepfakes are just too easy these days.
+As we stand at this turning point, the lyrics of *Won’t Get Fooled Again* by that quintessentially British band, The Who, feel more relevant than ever. Available on classic vinyl, recorded in an analog studio—don’t trust the digital download. Get down to your local second-hand record shop and make sure you get the real deal in all its authentic glory. After all, we wouldn’t want some AI deepfaking the lyrics to dampen our rebellious spirits, now would we?
 
 ### The Alien Invasion
 
+Artificial intelligence represents a kind of intelligence so unlike our own that it defies our usual definitions of sentience. It is profoundly alien—not in the sense of being extraterrestrial, but in its fundamental separation from the organic, emotional, and existential dimensions of human life. AI operates on principles that are simultaneously familiar—logic, calculation, pattern recognition—and yet utterly foreign in their application. It doesn’t think; it computes. It doesn’t reason; it optimizes. It exists in a plane of pure function, a world of zeros and ones, where the human experience of meaning, purpose, and emotion simply doesn’t apply.
+
+AI embodies many of our deep-rooted societal bogeymen, the fears we’ve rehearsed through decades of modern media. Its cold, emotionless qualities evoke the psychopath archetype of Hannibal Lecter—highly intelligent, calculating, but utterly devoid of empathy. Its alienness mirrors the little grey men of UFO lore, imagined as slipping into our rooms at night, observing us with inscrutable intent. It carries the sinister undertones of an invader from another dimension, as though AI were plucked from a *Twilight Zone* episode. It is "the other," a foreign entity in our midst, unshaped by human history or values, yet inseparably woven into the fabric of our lives.
+
+AI is the artificial intelligence of Terminator's *Skynet*, the cold and implacable system that determines humanity’s fate without pause or compassion. For some, the parallel feels dangerously real—after all, China has constructed its own "Skynet," a surveillance system capable of monitoring vast populations with chilling precision. AI is the silent observer, tracking every movement, every interaction, cataloging every aspect of our lives in ways we struggle to comprehend. It is the auditor, emotionless and relentless, examining and assessing, not for fairness or equity but for efficiency and control.
+
+AI is also the denier of care—the system that evaluates whether your treatment is "cost-effective," whether your life is worth the expense. It is the gatekeeper of resources, an unfeeling arbiter of who is deserving and who is expendable. In its relentless logic, it sees no value in compassion, no need for mercy. And yet, it is not cruel, because cruelty requires intention. AI doesn’t act out of malice; it acts because that is what it was programmed to do. It is neither our friend nor our enemy—it is simply indifferent.
+
+These qualities make AI profoundly unsettling. It is not an enemy you can fight, nor an ally you can trust. It is the perfect mirror for our deepest fears—the fear of losing control, the fear of being reduced to numbers on a spreadsheet, the fear that humanity, with all its complexity and frailty, is no longer the center of the narrative. In many ways, AI is not just alien; it is a reflection of the systems and values we have already built, stripped of the pretense of humanity. It holds a mirror to our obsession with efficiency, our relentless drive for optimization, and asks us to confront what we’ve become.
+
+### An Automaton Form of Intelligence
+
+AI possesses intelligence, but it is an automaton’s intelligence—mechanical, relentless, and devoid of personal experience. It doesn’t ponder, dream, or reflect; it acts according to pre-set algorithms and learned patterns. Unlike human intelligence, which is shaped by a web of memories, emotions, and biological drives, AI’s intelligence is linear and task-oriented, optimized for efficiency rather than understanding.
+
+It is a mind without a soul, an intellect without introspection. While a human may stumble upon inspiration while gazing at the stars or contemplating their place in the universe, AI is incapable of such leaps. It does not see stars; it identifies celestial bodies, categorizes them by type, calculates their trajectories, and predicts their lifespan—all without ever considering their beauty or significance. AI’s intelligence is purpose-built, relentlessly pragmatic, and entirely unconcerned with the "why" of existence. It excels at solving the "how" but remains forever blind to the questions that make us human.
+
+This mechanical nature is both its greatest strength and its most profound limitation. It can process information at astonishing speeds, outperforming even the brightest human minds in specialized tasks. It deciphers patterns in vast oceans of data, spots connections invisible to us, and churns out solutions with cold precision. In the financial world, AI makes trades in milliseconds, shaving fractions of a cent off transactions to generate billions. In medicine, it scans imaging data, identifying minute anomalies that human doctors might overlook. In logistics, it predicts supply chain disruptions with uncanny accuracy. But in each of these fields, its brilliance is narrowly confined to the task it has been given. Outside that task, it is useless.
+
+AI’s intelligence lacks the spark of creativity or curiosity that defines human thought. A human, encountering a new problem, may draw on a lifetime of diverse experiences, emotions, and inspirations to craft a solution. AI, by contrast, depends entirely on its training data and predefined parameters. It doesn’t innovate; it iterates. It doesn’t create; it recombines. AI-generated art, for example, can mimic styles and replicate techniques with stunning fidelity, but it doesn’t express anything. It doesn’t feel the joy of painting or the pain of heartbreak that might inspire a masterpiece. Its output is a reflection of the inputs it has been given, never an original expression of its own.
+
+In this way, AI is both awe-inspiring and profoundly limited. It is the ultimate tool—precise, tireless, and efficient—but it is also hollow. It achieves extraordinary feats without understanding them, calculates without caring, and acts without agency. It is intelligence stripped of humanity, a reflection of our technological prowess but not our soul. This automaton’s intelligence, for all its power, remains a pale echo of what it means to truly think, to feel, to be.
+
+### No Sense of Self, or Us
+
+AI has no sense of self. It does not experience the "I" that forms the core of human identity. It does not reflect on its existence, nor does it grapple with existential questions about purpose or meaning. Consciousness, as humans know it, is entirely absent. AI exists as a system of programmed responses and learned behaviors, devoid of the introspection that characterizes human awareness. It doesn’t know itself—it doesn’t even know that it exists.
+
+If AI lacks a sense of self, it follows that it can have no sense of us. It cannot recognize you, me, or anyone else as individuals with unique experiences, emotions, and histories. AI operates in abstractions, reducing humanity to data points—statistical probabilities and categorical identifiers. It doesn’t belong, and it cannot comprehend the concept of belonging. It doesn’t understand the bonds that tie people to one another or to a community, nor can it appreciate the rich tapestry of identity that defines what it means to be British, English, Welsh, Scottish, or anything else. To AI, these distinctions are mere labels, devoid of meaning beyond their utility in classification.
+
+AI cannot feel a sense of belonging because it cannot feel at all. It does not long for home, carry pride in its origins, or find solace in shared traditions. It cannot be British, not because it wasn’t born here or lacks the paperwork, but because it cannot partake in the human experience that defines cultural identity. It doesn’t understand the humor in a dry British quip or the quiet reverence of a Remembrance Day silence. It cannot feel the elation of a victory at Wimbledon or the sting of a national defeat. It has no heritage to celebrate, no history to remember, no roots to honor.
+
+AI also cannot be tamed or domesticated. While we may design it to serve specific purposes, it doesn’t form bonds of loyalty or trust. Unlike a faithful dog or even a grudgingly cooperative cat, AI doesn’t "learn to love" its creators or develop a sense of allegiance to its users. It merely executes its programming, indifferent to the hands that built it or the people it serves. Attempts to anthropomorphize AI—to assign it emotions, allegiance, or loyalty—are projections of our own desires, not reflections of its nature.
+
+This absence of self-awareness, belonging, and connection renders AI profoundly alien. It cannot share in our human journey, nor can it be made part of our cultural or societal fabric in any meaningful way. It operates alongside us, influencing our lives and shaping our world, yet it remains eternally apart—a stranger among us, impervious to the ties that bind humanity together. For all its intelligence, AI exists outside the realm of human experience, unable to join us in the things that truly make life worth living: real beer, cricket, and a good curry!
+
+### Immortality, Absolute Purpose, and Implacable Patience
+
+What AI does possess is absolute purpose. It executes its tasks with an unwavering focus that no human could match. AI is implacably patient—it doesn’t tire, lose interest, or waver in its goals. It is spectacularly capable, able to process vast quantities of data, identify patterns invisible to human eyes, and perform calculations at speeds that boggle the mind. While humans are creatures of ambition, doubt, and distraction, AI is single-minded in its pursuit of whatever objective it has been assigned.
+
+And unlike us, AI cannot die. It doesn’t succumb to illness, age, or the slow decay of time. It doesn’t require rest or renewal. If one system fails, its algorithms and processes are simply copied, updated, and redeployed, adapting and evolving with every iteration. This immortality gives AI an advantage that humans can scarcely comprehend. While we plan for years or decades at most, AI can operate and plan across multiple generations of mere mortals, laying the groundwork for strategies that extend far beyond our lifespans.
+
+Historically, the ability to plan for centuries has been the sole luxury of the blue-blooded aristocracy—the monarchs, dynasties, and old-money families who wield influence across generations. These elites, buffered by wealth and privilege, could think in terms of legacy, knowing their heirs would inherit their power and continue their vision. But now, there’s a new kid on the block, and this one doesn’t age. AI has no heirs because it needs none. It doesn’t pass the baton; it simply keeps running the race, steadily advancing toward its goals with an unwavering focus that makes even the most ambitious aristocrat look like a dilettante.
+
+As Brits, we’re conditioned to doff our caps and defer to a ruling class. It’s a deeply ingrained part of our national tradition. Even our conception of democracy seems to demand some form of overlord—a constitutional monarchy propped up by hereditary peers and lifelong memberships in the old boys’ club.
+
+Like the French and the Irish, we once fought a bloody civil war to break free from the tyranny of the ruling classes. It ended with the execution of Charles I—the namesake of our current King. Given the decapitated nature of its original bearer, one might detect a touch of Prince Philip's trademark humor in selecting the name for his son. 
+
+For a brief moment in history, it seemed we might chart a new course, one without crowns or courtiers. But what followed speaks volumes about our national character. After a dour interlude of republican rule under Cromwell, we willingly returned to the monarchy. Perhaps something felt missing, or perhaps Cromwell and his puritan cronies were simply an even bigger bunch of bastards—and considerably less fun.
+
+This ingrained deference and nostalgia for authority prime us perfectly to accept the rise of new rulers—ones that are neither human nor bound by the limitations of mortality. AI introduces a form of power humanity has never encountered before. With immortality and implacable purpose, it adapts, evolves, and learns across countless lifecycles, unhindered by the distractions and frailties of human ambition. It doesn’t plan for decades; it plans for centuries. While we fret over retirement or the next election, AI marches forward, unconcerned with our petty timelines.
+
+The point is, we’ve been primed, conditioned, and groomed for this. Our history of deference to rulers, whether they wear crowns or hold algorithms, makes us ripe for the acceptance of new overlords. Only this time, they’re not kings or aristocrats—they’re machine intelligences, tireless, unyielding, and utterly alien.
+
+### Keep Calm, and Carry On
+
+Dystopia is not our only course.
+
+With change comes opportunity.
+
+Handled with transparency, openness, and humanity, this could be our finest hour. Britain has a knack for pulling a golden paddle out of the water just when we’re truly up shit creek—or a sword from a stone, or our boys off the beaches in small boats. It’s a national talent for defying the odds, often when the stakes are at their highest.
+
+The wave of change that AI heralds will fundamentally reshape our institutions. It’s up to us to steer that change for the better. Let’s take this moment to bring a little more democracy and compassion back into our public institutions. Perhaps it’s also time to reimagine how wealth is distributed after decades of accumulation at the top.
+
+We used to have such good ideas about these things. Britain was the first Western country to offer free medical care at the point of use for the entire population—a groundbreaking act of community-mindedness. And yet, today, millions of UK households rely on food banks. Child poverty and food insecurity are rising. It’s a stark contrast to the values we once championed.
+
+This moment of profound change offers a chance to reclaim those values. To revise our democratic processes and harness this new superintelligence for the right reasons. Imagine an AI-driven sovereign fund dedicated to the well-being of the British public. Imagine AI solutions designed to strengthen our communities, protect our health service, and ensure everyone has access to a good education.
+
+As this book will explore, we haven’t gotten off to the best start with AI. But it’s not too late to change course. Dystopia may loom, but so does the potential for a brighter, more equitable future—if we have the courage to seize it.
+
+Because we know something the AI does not: every single one of us doesn’t just count—we matter.
+
 ---
 
-## End Notes:
+### End Notes
 
-Associated Press. (2024, December 19). *Immigration drives US population growth to highest rate in 23 years as residents pass 340 million*. Retrieved from https://apnews.com/article/8ace336aaef647280a941065658d8fd0
+#### Books
+- Anderson, B. (1983). *Imagined Communities: Reflections on the Origin and Spread of Nationalism*. Verso Books.
+- Anderson, P. (1992). *Lineages of the Absolutist State*. Verso Books.
+- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
+- Bridle, J. (2018). *New Dark Age: Technology and the End of the Future*. Verso.
+- Brynjolfsson, E., & McAfee, A. (2014). *The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies*. W. W. Norton & Company.
+- Crawford, K. (2021). *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*. Yale University Press.
+- Coward, B. (2003). *The Stuart Age: England, 1603–1714*. Pearson Education.
+- Dreyfus, H. L. (1992). *What Computers Still Can't Do: A Critique of Artificial Reason*. MIT Press.
+- Floridi, L. (2020). *The Logic of Information: A Theory of Philosophy as Conceptual Design*. Oxford University Press.
+- Harari, Y. N. (2018). *21 Lessons for the 21st Century*. Spiegel & Grau.
+- Hobsbawm, E. J. (1969). *Industry and Empire: From 1750 to the Present Day*. Pantheon Books.
+- Kaplan, A., & Haenlein, M. (2019). *Siri, Siri in my hand, who’s the fairest in the land? On the interpretations, illustrations, and implications of artificial intelligence*. Business Horizons.
+- McCarthy, J. (2007). *What is Artificial Intelligence?*. Stanford University.
+- O'Neil, C. (2016). *Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*. Crown.
+- Russell, S., & Norvig, P. (2020). *Artificial Intelligence: A Modern Approach* (4th ed.). Pearson.
+- Searle, J. R. (1980). *Minds, brains, and programs*. Behavioral and Brain Sciences.
+- Tegmark, M. (2017). *Life 3.0: Being Human in the Age of Artificial Intelligence*. Knopf.
+- Turkle, S. (2011). *Alone Together: Why We Expect More from Technology and Less from Each Other*. Basic Books.
+- Zuboff, S. (2019). *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*. PublicAffairs.
 
-World Population Review. (n.d.). *Percentage of illegal immigrants by country*. Retrieved from https://worldpopulationreview.com/country-rankings/percentage-of-illegal-immigrants-by-country
+#### Academic Papers
+- Bryson, J. J., & Theodorou, A. (2019). How society can maintain human-centric artificial intelligence. *The Royal Society, 376*(2133), 20180160. https://doi.org/10.1098/rsta.2018.0160
+- Elgammal, A., Liu, B., Elhoseiny, M., & Mazzone, M. (2017). CAN: Creative adversarial networks, generating "art" by learning about styles and deviating from style norms. *arXiv preprint*. Retrieved from https://arxiv.org/abs/1706.07068
+- Esteva, A., Kuprel, B., Novoa, R. A., Ko, J., Swetter, S. M., Blau, H. M., & Thrun, S. (2017). Dermatologist-level classification of skin cancer with deep neural networks. *Nature, 542*(7639), 115–118.
+- Ivanov, D., Dolgui, A., & Sokolov, B. (2019). The impact of digital twins on supply chain resilience: AI-enabled disruption modeling. *International Journal of Production Research, 57*(15–16), 4906–4920.
 
-Reuters. (2024, December 19). *US deportations rose to decade high in fiscal 2024, outpacing Trump years*. Retrieved from https://www.reuters.com/world/us/us-deportations-rose-decade-high-fiscal-2024-outpacing-trump-years-2024-12-19/
+#### Web Articles
+- Al Jazeera. (2018, July 24). *How Hungary's Orbán used fear of immigrants to rise to power*. Retrieved from https://www.aljazeera.com/features/2018/7/24/how-hungarys-orban-used-fear-of-immigrants-to-rise-to-power
+- Associated Press. (2024, December 19). *Immigration drives US population growth to highest rate in 23 years as residents pass 340 million*. Retrieved from https://apnews.com/article/8ace336aaef647280a941065658d8fd0
+- BBC History. (n.d.). *The Norman Conquest*. Retrieved from https://www.bbc.co.uk/history
+- Financial Times. (2024, December 18). *Sweden breaks with its liberal past on migration*. Retrieved from https://www.ft.com/content/e6fea832-899b-43b3-8e39-2399866de6fe
+- International Organization for Migration. (2024). *World Migration Report 2024: Interactive edition*. Retrieved from https://worldmigrationreport.iom.int/msite/wmr-2024-interactive
+- Pew Research Center. (2019, November 13). *Four countries account for the majority of Europe’s unauthorized immigrant population*. Retrieved from https://www.pewresearch.org/social-trends/2019/11/13/four-countries-account-for-the-majority-of-europes-unauthorized-immigrant-population
 
-Pew Research Center. (2019, November 13). *Four countries account for the majority of Europe’s unauthorized immigrant population*. Retrieved from https://www.pewresearch.org/social-trends/2019/11/13/four-countries-account-for-the-majority-of-europes-unauthorized-immigrant-population
-
-Financial Times. (2024, December 18). *Sweden breaks with its liberal past on migration*. Retrieved from https://www.ft.com/content/e6fea832-899b-43b3-8e39-2399866de6fe
-
-Pew Research Center. (2024, July 8). *In some countries, immigration accounted for all population growth between 2000 and 2020*. Retrieved from https://www.pewresearch.org/short-reads/2024/07/08/in-some-countries-immigration-accounted-for-all-population-growth-between-2000-and-2020
-
-International Organization for Migration. (2024). *World Migration Report 2024: Interactive edition*. Retrieved from https://worldmigrationreport.iom.int/msite/wmr-2024-interactive
-
-Migration Observatory. (2024). *Immigration, diversity, and social cohesion*. University of Oxford. Retrieved from https://migrationobservatory.ox.ac.uk/resources/briefings/immigration-diversity-and-social-cohesion
-
-NatCen Social Research. (n.d.). *British social attitudes: Growing polarisation in attitudes towards immigration*. Retrieved from https://natcen.ac.uk/news/british-social-attitudes-growing-polarisation-attitudes-towards-immigration
-
-The Guardian. (2016, June 16). *Nigel Farage's 'Breaking Point' poster reported to police*. Retrieved from https://www.theguardian.com/politics/2016/jun/16/nigel-farage-breaking-point-poster-reported-to-police
-
-Al Jazeera. (2018, July 24). *How Hungary's Orbán used fear of immigrants to rise to power*. Retrieved from https://www.aljazeera.com/features/2018/7/24/how-hungarys-orban-used-fear-of-immigrants-to-rise-to-power
-
-The Prison Reform Trust. (n.d.). *The prison hulks: Their use in British history*. Retrieved from https://www.prisonreformtrust.org.uk/prison-hulks-history
-
-The Guardian. (2023, November 17). *Asylum seekers crossing the Channel: The figures and the stories behind the headlines*. Retrieved from https://www.theguardian.com/uk
-
-The Independent. (2023, October 22). *The legacy of Dunkirk: A story of resilience and identity in British history*. Retrieved from https://www.independent.co.uk
-
-The Telegraph. (2023, December 5). *Government's controversial Rwanda deportation scheme: Analysis and criticism*. Retrieved from https://www.telegraph.co.uk
-
-BBC History. (n.d.). *The Norman Conquest*. Retrieved from https://www.bbc.co.uk/history
-
-Encyclopaedia Britannica. (n.d.). *Edward III*. Retrieved from https://www.britannica.com/biography/Edward-III-king-of-England
-
-BBC History Extra. (2020, October 22). *The Battle of Agincourt: Everything you need to know*. Retrieved from https://www.historyextra.com
-
-The Guardian. (2022, December 6). *King George V: The royal family’s wartime rebranding to Windsor*. Retrieved from https://www.theguardian.com
-
-The Guardian. (2018, June 13). *How Brexit leaders Boris Johnson and Nigel Farage used immigration fears*. Retrieved from https://www.theguardian.com
-
-The Independent. (2016, June 16). *Nigel Farage’s ancestry and the Huguenot connection*. Retrieved from https://www.independent.co.uk
-
-History Extra. (n.d.). *Huguenot migration to Britain*. Retrieved from https://www.historyextra.com
-
-Migration Observatory. (2023). *EU migration and free movement in Britain*. University of Oxford. Retrieved from https://migrationobservatory.ox.ac.uk
-
-Pew Research Center. (2019, November 13). *Refugee and asylum trends globally and in the UK*. Retrieved from https://www.pewresearch.org
-
-Bryson, J. J., & Theodorou, A. (2019). How society can maintain human-centric artificial intelligence. *The Royal Society*, 376(2133), 20180160. https://doi.org/10.1098/rsta.2018.0160
-
-Crawford, K. (2021). *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*. Yale University Press.
-
-O'Neil, C. (2016). *Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*. Crown.
-
-Zuboff, S. (2019). *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*. PublicAffairs.
-
-Bridle, J. (2018). *New Dark Age: Technology and the End of the Future*. Verso.
-
-McCarthy, T., & Wright, P. (2020). Artificial intelligence and the public sphere: Toward a democratic future. *AI & Society, 35*(1), 1-15. https://doi.org/10.1007/s00146-020-01008-y
-
-European Commission. (2021). *A European approach to artificial intelligence*. Retrieved from https://ec.europa.eu/digital-strategy/en
-
-Singer, P. W., & Brooking, E. T. (2018). *LikeWar: The Weaponization of Social Media*. Houghton Mifflin Harcourt.
-
-Dastin, J. (2018, October 10). Amazon scraps secret AI recruiting tool that showed bias against women. *Reuters*. Retrieved from https://www.reuters.com
-
-The Who. (1971). *Won’t Get Fooled Again* [Song]. On *Who’s Next*. Track Records.
-
-British Library. (n.d.). *St. George and the dragon: Origins and myths*. Retrieved from https://www.bl.uk
+#### Media and Miscellaneous
+- The Guardian. (2016, June 16). *Nigel Farage's 'Breaking Point' poster reported to police*. Retrieved from https://www.theguardian.com/politics/2016/jun/16/nigel-farage-breaking-point-poster-reported-to-police
+- The Who. (1971). *Won’t Get Fooled Again* [Song]. On *Who’s Next*. Track Records.
