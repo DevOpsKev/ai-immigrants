@@ -2,33 +2,34 @@
 
 # Introduction
 
-The bloody algos are here. If that phrase makes you pause, it should. "Algos"—short for algorithms—are quietly running the show in ways most of us don’t even realize. From deciding who gets a loan, to managing how goods arrive at your doorstep, to even determining whether you land a job interview, artificial intelligence is no longer the future. It’s the present.
+The bloody algos are here.
 
-But here’s the thing: most people still feel like AI is something for tech wizards, Silicon Valley billionaires, and sci-fi fans. The rest of us—the workers, the parents, the small business owners—are often left scratching our heads, wondering what this all means for *our* lives. Will AI take my job? Can it make my life easier? Should I be worried, or is it all hype?
+If that phrase makes you pause, it should. Algos—short for algorithms—are quietly running the show in ways most of us don’t even realize. From deciding who gets a loan, to managing how goods arrive at your doorstep, to determining whether you land a job interview—artificial intelligence is no longer the future. It’s the present.
 
-This book is for you—the person on the street, like me, who just wants straight answers without the jargon. *AI Immigrants: The Bloody Algos Are Here!* isn’t about dazzling you with technical terms or predicting a distant, robotic future. Instead, it’s about showing you what’s already happening right now, and what may happen for good or bad if we allow this technology to proceed unchecked, without democratic process. Without we as members of society having a say in how these technologies should be applied for our benefit—at your workplace, on your phone, in your doctor’s office, or when you’re applying for a mortgage. It’s about helping us understand how AI is reshaping our lives for better and for worse.
+But here’s the thing: most people still feel like AI is something for tech wizards, Silicon Valley billionaires, and sci-fi obsessives. The rest of us—the workers, the parents, the small business owners—are often left scratching our heads, wondering what this all means for our lives. Will AI take my job? Can it make my life easier? Should I be worried, or is this all just more tech-industry hype?
 
-Even those developing AI struggle to define it in simple terms. The best definition I have heard so far is to describe AI as a new species we will be living with. In this book, I hope to make this idea more urgent, more immediate to you, the reader. They may be a new species, but they are a new species of *immigrant*. They are coming to our society like a flood, migrating from the alien dimension of cloud computing into our countries and communities, reshaping the fabric of our lives.
+This book is for you—the person on the street, like me—who just wants straight answers without the jargon. AI Immigrants: The Bloody Algos Are Here! isn’t about dazzling you with technical terms or predicting some distant robotic future. It’s about what’s already happening. It’s about what could happen—if these systems continue advancing without public oversight, without democratic input, and without ordinary people being part of the conversation.
 
-And yes, there’s a reason I’m calling them *immigrants.* Just like people from new places arriving in a community, AI comes with its own potential, its own disruption, and its own baggage. Some of us welcome it. Others resist it. Most are just trying to figure out where they stand. The parallels between fears around immigration and AI are striking—and they reveal a lot about human nature. Fear of the unknown. Fear of change. Fear of being left behind. But just as with people, how we choose to respond to AI will determine the kind of society we build.
+Because whether you’re at work, at the doctor’s office, on your phone, or applying for a mortgage, AI is already in the room with you. And it’s not leaving.
 
-This book aims to democratize knowledge, because knowledge is power. When you understand something, you can influence it. You can exercise your democratic rights and demand accountability. You can spot when someone is attempting to erode your hard-won birthright as a citizen in a democratic nation.
+Even the people building this stuff can’t always define it. One of the most compelling ways I’ve heard AI described is as a new species—an intelligence unlike our own, arriving not from space, but from server farms and neural nets. That may sound dramatic, but spend enough time around these systems and you’ll feel it too. They’re not just tools. They make decisions. They act. They shape our lives.
 
-You don’t need a computer science degree to understand what’s going on. You don’t need to be a tech expert to take control of your future. But you do need to know the truth about AI: what it is, what it isn’t, and how it impacts you.
+And like any new species entering a shared environment, they bring disruption. Which brings us to the metaphor at the heart of this book: AI as a kind of immigrant.
 
-By the end of this journey, you’ll see AI not as a shadowy force or magic, not as a coming super intelligence against which you have no defence or control, but as something more complex—a new kind of actor in our society. AI is not just a tool; it has the capacity to act, to decide, and to influence. It can be harnessed for good, bad, or something in between.
+Yes, immigrant.
 
-Each chapter in this book explores AI from the perspective of a commonly held view about immigration—both positive and negative. These chapters will examine fears, hopes, and realities through this lens: the fear that 'they take our jobs,' the belief that 'they bring innovation,' and the concern that 'they don’t integrate.' Along the way, we’ll uncover how these perspectives shape our understanding of AI and what they mean for our collective future. By drawing these parallels, I hope to make AI’s impact on society clearer, more relatable, and impossible to ignore. 
+Just like people arriving in a new land, AI systems cross boundaries—digital, economic, cultural. They bring potential. They bring disruption. They don’t always understand the rules. Some of us welcome them. Some resist. Most are just trying to figure out what it all means. The parallels to how societies respond to human immigration are striking: fear of the unknown, fear of replacement, fear of not belonging. And yet, also opportunity, innovation, and renewal—if we respond well.
 
-The bloody algos are here. Let’s meet them head-on.
+This book isn’t about settling that debate. It’s about giving you the tools to understand it.
 
-**Endnotes**
+Because knowledge is power. When you understand what AI is—and what it isn’t—you gain agency. You become harder to manipulate. You start asking better questions. You become someone who can demand accountability from systems that increasingly shape your life.
 
-### Books
-- Brynjolfsson, E., & McAfee, A. (2014). *The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies*. W.W. Norton & Company.
-- Russell, S., & Norvig, P. (2021). *Artificial Intelligence: A Modern Approach* (4th ed.). Pearson Education.
-- Suleyman, M. (2023). *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma*. Crown Publishing Group.
-- Zuboff, S. (2019). *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*. PublicAffairs.
+You don’t need a computer science degree to get what’s going on. You don’t need to become an expert. But you do need to see clearly—because right now, most of the power is invisible. Intentionally so.
 
-### Academic Papers
-- Acemoglu, D., & Restrepo, P. (2019). *Automation and New Tasks: How Technology Displaces and Reinstates Labor*. Journal of Economic Perspectives, *33*(2), 3–30. https://doi.org/10.1257/jep.33.2.3
+By the end of this book, I want you to see AI not as something alien or magical. Not as a coming god or an evil overlord. But as something more complex: a new kind of actor in society. Something that can be shaped—for good, for harm, or for something in between.
+
+Each chapter explores AI through the lens of how we talk about immigration—both the fears and the hopes. The worry that “they’re taking our jobs.” The belief that “they bring innovation.” The concern that “they don’t integrate.” These aren’t just talking points. They’re reflections of deeper social instincts—and how we respond to this moment will define the kind of world we live in next.
+
+The bloody algos are here.
+
+Let’s meet them head-on.
