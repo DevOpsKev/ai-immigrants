@@ -20,4 +20,4 @@ Many of the concerns being voiced—particularly around the lack of vetting and 
 
 That parallel matters. Because how we respond to the unfamiliar—whether it arrives on foot or via firmware—reveals what kind of society we are becoming.
 
-So consider this note an invitation. I’m not trying to lay down immutable truths. I’m sharing a lens, shaped by my upbringing in a mongrel nation and informed by a world in flux. The chapters that follow will use the language of immigration to illuminate what AI does and doesn’t do, what it threatens and what it could offer. We’ll avoid jargon and predictions of robot apocalypses. Instead, we will ask how to best live with these digital strangers in our midst.
+So consider this note an invitation. I’m not trying to lay down immutable truths. I’m sharing a lens, shaped by my upbringing in a mongrel nation and informed by a world in flux. The chapters that follow will use the language of immigration to illuminate what AI does and doesn’t do, what it threatens and what it could offer. I’ll avoid jargon and predictions of robot apocalypses. Instead, I will ask how to best live with these digital strangers in our midst.
