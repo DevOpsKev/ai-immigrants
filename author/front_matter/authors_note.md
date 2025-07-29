@@ -1,37 +1,23 @@
-# AUTHORS NOTE
+# Authors Note
 
-### Algo  
-**(noun)**  
-*ˈælɡəʊ*
+Before we dive into algorithms and acronyms, I want to talk about who’s doing the writing and why I landed on the odd idea of treating artificial intelligence like a newcomer in your neighbourhood. I grew up British, surrounded by stories of kings, knights and cricket. But the more you scratch at those stories, the more you realise how porous the borders really are. Our royal family changed its name from Saxe‑Coburg and Gotha to Windsor during the First World War to hide its German roots. Roast beef? Arrived on our shores with the French centuries ago. Curry? A gift from India. England’s Saint George was a Greek or Turkish soldier who never once set foot on our island, St. George’s cross, that emblem of English football fanatics, was “permanently borrowed” from overseas.
 
-A derogatory term for algorithms and artificial intelligence systems, often used to express fear, frustration, or resentment toward their perceived encroachment on human jobs, creativity, and decision-making. Rooted in mistrust and misunderstanding, "Algo" embodies the anxieties of a society grappling with rapid technological change.
+We are, in truth, a nation of mongrels. Romans built our roads and left behind a taste for central heating. Saxons and Vikings sailed in and lent us their tongue. Normans imported castles, a new aristocracy and a French flair for law and cuisine. Later waves came from Ireland, Scotland and Wales, from India and Pakistan, from the Caribbean, Africa and Eastern Europe. At various points our ancestors sailed out and conquered, traded or plundered; at others we welcomed refugees from persecution in continental Europe. That messy lineage is written into the DNA of every “true Brit.” Even our most nationalist politicians turn out to be walking reminders of migration. Nigel Farage’s Huguenot sixth great‑grandfather fled religious violence in France and likely crossed the channel in a small boat. Boris Johnson’s family tree winds its way through Turkey and France. If the people who complain loudest about outsiders are mongrels, what does that say about the rest of us?
 
-#### Example Usage:
-- "The bloody Algos are taking all the good jobs, and now they want to write poetry too!"  
-- "If we let the Algos run everything, what’s left for humans to do?"
+This cultural mash‑up isn’t unique to Britain. The United States now counts more than 340 million residents, and immigration accounted for **84 %** of its 3.3‑million‑person population increase between 2023 and 2024 In 2024 there were about **304 million** international migrants worldwide, nearly double the number in 1990. Modern Australia, Canada, Brazil and South Africa were forged by migration; Nigeria and India have vast diasporas. Even nations that imagine themselves ethnically homogenous contain layers of conquest and intermarriage. We live in an age of movement. Climate change, civil wars, failing economies and aspirations for a better life push people across borders. At the end of 2024 the world hosted an estimated **43.7 million** refugees and 8 million asylum seekers. Whether we admit it or not, the human story is a story of people on the move.
 
-#### Characteristics:
-1. **Scapegoating**: Used to blame AI for systemic issues such as unemployment or inequality, while ignoring the broader socioeconomic context.  
-2. **Dehumanization**: Reduces AI systems to faceless threats, ignoring their potential for collaboration and augmentation.  
-3. **Fear-Mongering**: Often accompanied by exaggerated claims about AI's capabilities or intentions.  
+Why does that matter in a book about artificial intelligence? Because metaphors shape how we think. When we talk about AI as a “tool” or “platform,” we emphasise utility. When we describe it as a “species,” we evoke wonder and fear. I see these systems as immigrants of a different sort: borderless, invisible and already living among us. They arrive not on dinghies but through software updates and server farms. They speak every language because we trained them on our own words. They enter our homes via smart speakers, our pockets via recommendation engines, and our institutions via decision‑making systems. They’re not sentient; they don’t eat or sleep. But like immigrants, they cross boundaries, unsettle the status quo, and force societies to renegotiate who belongs and on what terms.
 
-#### Cultural Context:
-- Reflects the same resistance and prejudice historically faced by disruptive technologies or marginalized groups entering established spaces.
-- Popularized in casual, hyperbolic critiques of automation and AI's growing role in society.
+Seeing AI this way also reveals our prejudices. Immigrants have long been scapegoated for unemployment, crime or cultural decline. They’re accused of taking jobs, straining schools or “not integrating” properly. In Britain the 2016 Brexit campaign plastered the country with a lurid poster showing desperate refugees under the headline *Breaking Point*. Hungary’s ruling party recycled the same image to stoke fears of invasion. In the United States, talk radio warns of “open borders” while ignoring the fact that the unauthorised immigrant population was about **11 million** in 2022—a far cry from the fifty‑odd million some pundits claim. Modern Sweden has swung from welcoming asylum seekers to reporting its lowest number of applications since 1997 and forecasting net emigration for the first time in fifty years. Populists everywhere build careers on fears of the outsider.
 
-### Algoism
+Algorithms stir similar emotions. We worry that a chatbot will “steal” a call‑centre job or that autonomous trucks will put drivers out of work. We hear about coders earning astronomical salaries and assume the spoils are going to the wrong people. But focusing our frustration on the newcomers—whether human or digital—lets those in power off the hook. Corporations choose how to deploy technology. Governments decide whether to protect workers. Our anxieties reflect deeper failures of policy and imagination.
 
-**(noun)**  
-*ˈælɡəʊɪzəm*
+Writing this Author’s Note was an exercise in looking at my own biases. I grew up thinking of my country as an island fortress. In reality it has been a crossroads for millennia. Grandparents tell stories about “foreigners” moving into the neighbourhood; In London I lived in a city where fifty languages are spoken on a single street. The best way to honour that heritage is to greet newcomers—flesh or silicon—with curiosity rather than fear. But curiosity must be coupled with vigilance. Immigrants enrich societies when they are welcomed with rights and responsibilities. AI enriches us only if we build systems that reflect our values: fairness, accountability, and a recognition that people are more than data points.
 
-The prejudice, discrimination, or systemic bias directed toward algorithms and artificial intelligence systems, often stemming from fear, misunderstanding, or mistrust of their capabilities, roles, or influence in society.
+At the time of writing, immigration—and especially so-called “illegal immigration”—is the most divisive and politically charged issue in British society. From inflammatory tabloid headlines to culture war skirmishes on social media, the topic dominates public discourse and fuels political rhetoric. Increasingly, those online battles are spilling into the real world, with protests, counter-protests, and, in some cases, violence.
 
-#### Example Usage:
-- "The company was accused of algoism when it rejected the use of AI-driven solutions despite their proven efficiency."
-- "Algoism can hinder technological progress by perpetuating unfounded fears about automation and AI."
+Many of the concerns being voiced—particularly around the lack of vetting and transparency—are not without basis. In some communities, fears about safety and social cohesion are heightened when irregular migration is perceived to be unmanaged or ignored. That uncertainty breeds suspicion—and not just toward people. It shapes how we view technological newcomers, too. When we talk about A.I. “invading” the workplace or “flooding” our information channels, we echo the same language used to dehumanise migrants.
 
-#### Characteristics of Algoism:
-1. **Fear of Automation**: Resistance to AI systems due to concerns about job loss or dehumanization.
-2. **Blame for Failures**: Algorithms are often scapegoated for broader systemic issues they reflect rather than cause.
-3. **Misrepresentation**: Overgeneralization of AI as inherently harmful, dangerous, or untrustworthy.
-4. **Rejection of Collaboration**: Hesitancy to integrate AI into workflows, disregarding its potential to augment human capabilities.
+That parallel matters. Because how we respond to the unfamiliar—whether it arrives on foot or via firmware—reveals what kind of society we are becoming.
+
+So consider this note an invitation. I’m not trying to lay down immutable truths. I’m sharing a lens, shaped by my upbringing in a mongrel nation and informed by a world in flux. The chapters that follow will use the language of immigration to illuminate what AI does and doesn’t do, what it threatens and what it could offer. We’ll avoid jargon and predictions of robot apocalypses. Instead, we will ask how to best live with these digital strangers in our midst.

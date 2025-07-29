@@ -7,3 +7,4 @@ This book frames A.I. as the newest foreign presence in our world—quietly taki
 From job loss to cultural displacement, synthetic elites to data borders, this is a civic-minded, conversational, and humanist guide to a future that’s already arriving. It’s not about the machines. It’s about us.
 
 Warm, witty, and unsettling in equal measure, this book is for anyone wondering: What happens when intelligence arrives—without a body, without a passport, and without asking permission?
+

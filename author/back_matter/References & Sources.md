@@ -1,5 +1,20 @@
-
 # References & Sources
+
+## Preface
+
+- CBS News. (2024, December 21). *Deportations by ICE hit 10-year high in 2024, surpassing Trump-era peak.* https://www.cbsnews.com/news/deportations-by-ice-10-year-high-in-2024-surpassing-trump-era-peak/
+- DW News. (2024, March 26). *Sweden’s population shrinks for first time in 50 years.* https://www.dw.com/en/swedens-population-shrinks-for-first-time-in-50-years/a-69893811
+- Pew Research Center. (2019, November 13). *Four countries account for the majority of Europe’s unauthorized immigrant population.* https://www.pewresearch.org/global/2019/11/13/four-countries-account-for-the-majority-of-europes-unauthorized-immigrant-population/
+- Reuters. (2024, July 23). *UK to shut down Bibby Stockholm migrant barge, Telegraph reports.* https://www.reuters.com/world/uk/uk-shut-down-bibby-stockholm-migrant-barge-telegraph-reports-2024-07-23/
+- United Nations. (n.d.). *Migration.* https://www.un.org/en/global-issues/migration
+- U.S. News & World Report. (2024, December 19). *Immigration drives US population growth to highest rate in 23 years as residents pass 340 million.* https://www.usnews.com/news/us/articles/2024-12-19/immigration-drives-us-population-growth-to-highest-rate-in-23-years-as-residents-pass-340-million
+
+## Author’s Note 
+
+- DW News. (2024, March 26). *Sweden’s population shrinks for first time in 50 years.* DW. https://www.dw.com/en/swedens-population-shrinks-for-first-time-in-50-years/a-69893811
+- U.S. News & World Report. (2024, December 19). *Immigration drives US population growth to highest rate in 23 years as residents pass 340 million.* https://www.usnews.com/news/us/articles/2024-12-19/immigration-drives-us-population-growth-to-highest-rate-in-23-years-as-residents-pass-340-million
+- United Nations. (n.d.). *Migration.* https://www.un.org/en/global-issues/migration
+- Pew Research Center. (2024, July 22). *What we know about unauthorized immigrants living in the U.S.* https://www.pewresearch.org/short-reads/2024/07/22/what-we-know-about-unauthorized-immigrants-living-in-the-us/
 
 ## Chapter 1 – *They’re Taking Our Jobs*
 
