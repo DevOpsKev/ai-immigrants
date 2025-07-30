@@ -52,3 +52,53 @@
 - Reuters. (Various Dates). Articles on AI workforce impacts, corporate changes, and market shifts. (See manuscript for individual article links.)
 - Stanford HAI. (2025). *Artificial Intelligence Index Report.* https://hai-production.s3.amazonaws.com/files/hai_ai_index_report_2025.pdf
 - E-International Relations. (2025, February 17). *Tech imperialism reloaded: AI, colonial legacies, and the Global South.* https://www.e-ir.info/2025/02/17/tech-imperialism-reloaded-ai-colonial-legacies-and-the-global-south/
+
+## Chapter 3 – *Ruining Our Culture*
+
+- News.mit.edu. (2024). *The creative future of generative AI | MIT News | Massachusetts Institute of Technology*. Retrieved from https://news.mit.edu/2024/creative-future-generative-ai-0102
+
+- Theverge.com. (2024). *AI music startups say copyright violation is just rock and roll | The Verge*. Retrieved from https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use
+
+- Riaa.com. (n.d.). *Record Companies Bring Landmark Cases for Responsible AI Against Suno and Udio in Boston and New York Federal Courts, Respectively - RIAA*. Retrieved from https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/
+
+- Theguardian.com. (2023). *AI song featuring fake Drake and Weeknd vocals pulled from streaming services | Drake | The Guardian*. Retrieved from https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services
+
+- Ts2.tech. (n.d.). *AI-Generated Music Is Exploding in 2025 – Inside the Revolution Shaking the Music Industry*. Retrieved from https://ts2.tech/en/ai-generated-music-is-exploding-in-2025-inside-the-revolution-shaking-the-music-industry/
+
+- Theartnewspaper.com. (2024). *Leaked: the names of more than 16,000 non-consenting artists allegedly used to train Midjourney’s AI - The Art Newspaper*. Retrieved from https://www.theartnewspaper.com/2024/01/04/leaked-names-of-16000-artists-used-to-train-midjourney-ai
+
+- Theartnewspaper.com. (2024). *US artists score victory in landmark AI copyright case - The Art Newspaper*. Retrieved from https://www.theartnewspaper.com/2024/08/15/us-artists-score-victory-in-landmark-ai-copyright-case
+
+- Theguardian.com. (2024). *Sora: OpenAI launches tool that instantly creates video from text | The Guardian*. Retrieved from https://www.theguardian.com/technology/2024/feb/15/openai-sora-ai-model-video
+
+- Brookings.edu. (n.d.). *Impact of OpenAI's Sora on Creative Industries*. Retrieved from https://www.brookings.edu/articles/how-openais-sora-hurts-the-creative-industries/
+
+- Eweek.com. (n.d.). *OpenAI Sora: Revolutionary Text-to-Video Tool*. Retrieved from - https://www.eweek.com/artificial-intelligence/openai-sora-overview/
+
+- Idpro.org. (n.d.). *AI and The Death of Authenticity - IDPro*. Retrieved from https://idpro.org/ai-and-the-death-of-authenticity/
+
+- Blog.adobe.com. (2024). *Authenticity in the Age of AI | Adobe Blog*. Retrieved from https://blog.adobe.com/en/publish/2024/09/18/authenticity-age-ai-growing-content-credentials-momentum-across-social-media-platforms-ai-companies-rising-consumer-awareness
+
+- Cjr.org. (n.d.). *What Journalists Should Know About Deepfake Detection in 2025 - Columbia Journalism Review*. Retrieved from https://www.cjr.org/tow_center/what-journalists-should-know-about-deepfake-detection-technology-in-2025-a-non-technical-guide.php
+
+- Hai.stanford.edu. (n.d.). *AI Index 2025: State of AI in 10 Charts | Stanford HAI*. Retrieved from https://hai.stanford.edu/news/ai-index-2025-state-of-ai-in-10-charts
+
+- Sydney.edu.au. (2024). *The joke's on us – how AI is replicating our laughter online - The University of Sydney*. Retrieved from https://www.sydney.edu.au/news-opinion/news/2024/06/03/the-jokes-on-us-ai-replicating-laughter-humour-expert.html
+
+- Stackoverflow.blog. (2024). *Generative AI is not going to build your engineering team for you - Stack Overflow*. Retrieved from https://stackoverflow.blog/2024/12/31/generative-ai-is-not-going-to-build-your-engineering-team-for-you/
+
+- Metr.org. (2025). *Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity - METR*. Retrieved from https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/
+
+- Brookings.edu. (n.d.). *How language gaps constrain generative AI development | Brookings*. Retrieved from https://www.brookings.edu/articles/how-language-gaps-constrain-generative-ai-development/
+
+- Nevillehobson.io. (n.d.). *Whose English Does AI Speak?*. Retrieved from https://www.nevillehobson.io/whose-english-does-ai-speak/
+
+- Home.dartmouth.edu. (2025). *Language Preservation Efforts Get an AI Boost | Dartmouth*. Retrieved from https://home.dartmouth.edu/news/2025/04/language-preservations-efforts-get-ai-boost
+
+- Tech-now.io. (n.d.). *AI Influencer Take Over: The New Face of Marketing in 2025 - TechNow*. Retrieved from https://tech-now.io/en/blogs/ai-influencer-take-over-the-new-face-of-marketing-in-2025
+
+- Disruptmarketing.co. (n.d.). *AI: The artificial influencer problem runs deep - Disrupt*. Retrieved from https://disruptmarketing.co/blog/ai-the-artificial-influencer-problem-runs-deep/
+
+- Influencermarketinghub.com. (n.d.). *Influencer Marketing 2025 Predictions [265 Expert Insights]*. Retrieved from https://influencermarketinghub.com/influencer-marketing-expert-insights-predictions-2025/
+
+- En.wikipedia.org. (n.d.). *GPT-4o - Wikipedia*. Retrieved from https://en.wikipedia.org/wiki/GPT-4o
