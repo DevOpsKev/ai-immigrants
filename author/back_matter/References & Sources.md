@@ -102,3 +102,31 @@
 - Influencermarketinghub.com. (n.d.). *Influencer Marketing 2025 Predictions [265 Expert Insights]*. Retrieved from https://influencermarketinghub.com/influencer-marketing-expert-insights-predictions-2025/
 
 - En.wikipedia.org. (n.d.). *GPT-4o - Wikipedia*. Retrieved from https://en.wikipedia.org/wiki/GPT-4o
+
+## Chapter 4 – *The Synthetic Scapegoat*
+
+- Yahoo Finance. (2024, December 18). *Is AI causing tech worker layoffs? That's what CEOs suggest, but the reality is complicated.* https://uk.finance.yahoo.com/news/ai-causing-tech-worker-layoffs-184426256.html
+
+- Newsweek. (2024, May 14). *Stop scapegoating immigrants for every social or economic problem | Opinion.* https://www.newsweek.com/stop-scapegoating-immigrants-every-social-economic-problem-opinion-1970898
+
+- Migrant Rights Network. (2024, May 10). *Trudeau government scapegoats migrants, cuts immigration.* https://migrantrights.ca/trudeau-government-scapegoats-migrants-cuts-immigration/
+
+- Morgan Lewis. (2025, February). *AI and algorithmic pricing: 2025 antitrust outlook and compliance considerations.* https://www.morganlewis.com/pubs/2025/02/ai-and-algorithmic-pricing-2025-antitrust-outlook-and-compliance-considerations
+
+- The Guardian. (2025, January 25). *New AI tool counters health insurance denials decided by automated algorithms.* https://www.theguardian.com/us-news/2025/jan/25/health-insurers-ai
+
+- University College London. (2024, December). *Bias in AI amplifies our own biases | UCL News.* https://www.ucl.ac.uk/news/2024/dec/bias-ai-amplifies-our-own-biases
+
+- Boston University. (2024). *Can the bias in algorithms help us see our own? | The Brink.* https://www.bu.edu/articles/2024/can-the-bias-in-algorithms-help-us-see-our-own/
+
+- National Institutes of Health. (2025). *Social media algorithms and teen addiction: Neurophysiological impact and ethical considerations.* https://pmc.ncbi.nlm.nih.gov/articles/PMC11804976/
+
+- American Association for Technology in Psychiatry. (2024, December 13). *New Pew research reveals high usage of social media among teens.* https://tecpsych.com/techpsych/2024/12/13/new-pew-research-reveals-high-usage-of-social-media-among-teens/
+
+- AI Now Institute. (2025). *Executive summary.* https://ainowinstitute.org/publications/research/executive-summary-artificial-power
+
+- International Monetary Fund. (2025, June). *Tech’s winner-take-all trap.* https://www.imf.org/en/Publications/fandd/issues/2025/06/cafe-economics-techs-winner-take-all-trap-bruce-edwards
+
+- CESifo. (2025). *The dark side of social media: Recommender algorithms and mental health | Working paper.* https://www.ifo.de/en/cesifo/publications/2025/working-paper/dark-side-social-media-recommender-algorithms-and-mental-health
+
+- Massachusetts Institute of Technology. (2024, December 5). *Study: Browsing negative content online makes mental health struggles worse.* https://news.mit.edu/2024/study-browsing-negative-content-online-makes-mental-health-struggles-worse-1205
