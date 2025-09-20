@@ -130,3 +130,41 @@
 - CESifo. (2025). *The dark side of social media: Recommender algorithms and mental health | Working paper.* https://www.ifo.de/en/cesifo/publications/2025/working-paper/dark-side-social-media-recommender-algorithms-and-mental-health
 
 - Massachusetts Institute of Technology. (2024, December 5). *Study: Browsing negative content online makes mental health struggles worse.* https://news.mit.edu/2024/study-browsing-negative-content-online-makes-mental-health-struggles-worse-1205
+
+## Chapter 5 - The Algorithmic Class
+
+- Journal of Technology and Intellectual Property. (2025, January 30). *Algorithmic bias in AI employment decisions*. Northwestern Pritzker School of Law. https://jtip.law.northwestern.edu/2025/01/30/algorithmic-bias-in-ai-employment-decisions
+
+- Becker, R. (2025, August). *California bills would govern AI use in employment decisions*. CalMatters. https://calmatters.org/economy/technology/2025/08/california-ai-employment-legislation
+
+- Buchanan, M. (2024, October 11). *As AI takes the helm of decision making, signs of perpetuating historic biases emerge*. Ohio Capital Journal. https://ohiocapitaljournal.com/2024/10/11/as-ai-takes-the-helm-of-decision-making-signs-of-perpetuating-historic-biases-emerge
+
+- Winston, A., & Sneed, T. (2024, October 25). *An algorithm deemed this nearly blind 70-year-old prisoner a “moderate risk.” Now he’s no longer eligible for parole*. ProPublica. https://www.propublica.org/article/tiger-algorithm-louisiana-parole-calvin-alexander
+
+- Townsend, M. (2025, February 19). *UK use of predictive policing is racist and should be banned, says Amnesty*. The Guardian. https://www.theguardian.com/uk-news/2025/feb/19/uk-use-of-predictive-policing-is-racist-and-should-be-banned-says-amnesty
+
+- Laughland, O. (2025, January 25). *New AI tool counters health insurance denials decided by automated algorithms*. The Guardian. https://www.theguardian.com/us-news/2025/jan/25/health-insurers-ai
+
+- Phillips, R. (2025, March 18). *Algorithms deny humans health care*. The Regulatory Review. https://www.theregreview.org/2025/03/18/phillips-algorithms-deny-humans-health-care/
+
+- Brennan Center for Justice. (2025, February 5). *Meta's oversight board needs access to Facebook’s algorithms to do its job*. https://www.brennancenter.org/our-work/analysis-opinion/metas-oversight-board-needs-access-facebooks-algorithms-do-its-job
+
+- Human Rights Watch. (2025, May 12). *The gig trap: Algorithmic, wage and labor exploitation in platform work in the US*. https://www.hrw.org/report/2025/05/12/the-gig-trap/algorithmic-wage-and-labor-exploitation-in-platform-work-in-the-us
+
+- Phys.org. (2024, November). *Algorithmic management raises concerns over worker autonomy*. https://phys.org/news/2024-11-algorithmic-worker-autonomy.html
+
+- Life Insurance Attorney. (2025, May). *Artificial intelligence’s role in denying life insurance claims*. https://www.lifeinsuranceattorney.com/blog/2025/may/ais-role-in-denying-life-insurance-claims/
+
+- Paubox. (2025, April). *AI algorithmic bias in healthcare decision making*. https://www.paubox.com/blog/ai-algorithmic-bias-in-healthcare-decision-making
+
+- Knight–Georgetown Institute. (2025, February). *Better feeds: Algorithms that put people first*. https://kgi.georgetown.edu/wp-content/uploads/2025/02/Better-Feeds_-Algorithms-That-Put-People-First.pdf
+
+- Misinfo Review. (2024, October). *Toxic politics and TikTok engagement in the 2024 U.S. election*. Harvard Kennedy School. https://misinforeview.hks.harvard.edu/article/toxic-politics-and-tiktok-engagement-in-the-2024-u-s-election/
+
+- Nguyen, F. (2025). *Tech governance and democratic accountability*. Harvard Journal of Law & Technology, 38(4). https://jolt.law.harvard.edu/assets/articlePDFs/v38.4/2-Fan-Nguyen.pdf
+
+- Albergotti, R. (2024, September 25). *Exclusive: OpenAI to remove non-profit control and give Sam Altman equity*. Reuters. https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/
+
+- Reuters. (2025, May 5). *OpenAI dials back conversion plan, nonprofit to retain control*. https://www.reuters.com/business/openai-remain-under-non-profit-control-change-restructuring-plans-2025-05-05/
+
+- European Commission. (2024). *AI Act: Europe’s new legal framework for artificial intelligence*. https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
