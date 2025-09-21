@@ -168,3 +168,33 @@
 - Reuters. (2025, May 5). *OpenAI dials back conversion plan, nonprofit to retain control*. https://www.reuters.com/business/openai-remain-under-non-profit-control-change-restructuring-plans-2025-05-05/
 
 - European Commission. (2024). *AI Act: Europe’s new legal framework for artificial intelligence*. https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+
+## Chapter 6 - Sentience, Schm‑entience
+
+American Psychological Association. (2025, January). *Trends: Classrooms adapting to artificial intelligence*. *APA Monitor on Psychology*. https://www.apa.org/monitor/2025/01/trends-classrooms-artificial-intelligence
+
+Wang, Y., Smith, J., & Lee, H. (2025). Caregiving artificial intelligence chatbot for older adults and their preferences, well-being, and social connectivity: Mixed-method study. *Journal of Medical Internet Research*, 27, e11950695. https://doi.org/10.2196/11950695
+
+Nurse.org. (2025, January 15). *6 nurse AI robots that are changing healthcare in 2025*. https://nurse.org/articles/nurse-robots/
+
+Psychology.org. (2025, February 2). *ChatGPT is my therapist: Seeking common ground on AI therapy*. https://www.psychology.org/resources/ai-therapy/
+
+Dartmouth College. (2025, March 27). *First therapy chatbot trial yields mental health benefits*. Dartmouth News. https://home.dartmouth.edu/news/2025/03/first-therapy-chatbot-trial-yields-mental-health-benefits
+
+U.S. Department of Agriculture, Economic Research Service. (2025). *Farm labor*. https://www.ers.usda.gov/topics/farm-economy/farm-labor
+
+Jordan, M. (2024, October 2). US farms are forcing workers to buy inedible, expensive meals: ‘It makes you feel enslaved’. *The Guardian*. https://www.theguardian.com/us-news/2024/oct/02/h2a-worker-program-migrant-farm-food
+
+Long, R. (2024, September 18). Do AI systems have moral status? *Brookings Institution*. https://www.brookings.edu/articles/do-ai-systems-have-moral-status/
+
+Hern, A. (2024, November 17). AI could cause ‘social ruptures’ between people who disagree on its sentience. *The Guardian*. https://www.theguardian.com/technology/2024/nov/17/ai-could-cause-social-ruptures-between-people-who-disagree-on-its-sentience
+
+Bennett, T., & Zhao, K. (2023). AI systems must not confuse users about their sentience or moral status. *Frontiers in Psychology*, 14, 10436038. https://doi.org/10.3389/fpsyg.2023.10436038
+
+Hern, A. (2025, August 26). Can AIs suffer? Big tech and users grapple with one of most unsettling questions of our times. *The Guardian*. https://www.theguardian.com/technology/2025/aug/26/can-ais-suffer-big-tech-and-users-grapple-with-one-of-most-unsettling-questions-of-our-times
+
+UK Government. (2021, November 19). *Lobsters, octopus and crabs recognised as sentient beings*. GOV.UK. https://www.gov.uk/government/news/lobsters-octopus-and-crabs-recognised-as-sentient-beings
+
+Garcia, M., & Patel, S. (2023). No legal personhood for AI. *Philosophy & Technology*, 36, 82746. https://doi.org/10.1007/s13347-023-00682746
+
+Sentience Institute. (2025, January 15). *Perceptions of sentient AI and other digital minds: Evidence from the AI, morality, and sentience (AIMS) survey*. https://www.sentienceinstitute.org/blog/perceptions-of-sentient-ai-and-other-digital-minds
