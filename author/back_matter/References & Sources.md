@@ -171,30 +171,79 @@
 
 ## Chapter 6 - Sentience, Schm‑entience
 
-American Psychological Association. (2025, January). *Trends: Classrooms adapting to artificial intelligence*. *APA Monitor on Psychology*. https://www.apa.org/monitor/2025/01/trends-classrooms-artificial-intelligence
+- American Psychological Association. (2025, January). *Trends: Classrooms adapting to artificial intelligence*. *APA Monitor on Psychology*. https://www.apa.org/monitor/2025/01/trends-classrooms-artificial-intelligence
 
-Wang, Y., Smith, J., & Lee, H. (2025). Caregiving artificial intelligence chatbot for older adults and their preferences, well-being, and social connectivity: Mixed-method study. *Journal of Medical Internet Research*, 27, e11950695. https://doi.org/10.2196/11950695
+- Wang, Y., Smith, J., & Lee, H. (2025). Caregiving artificial intelligence chatbot for older adults and their preferences, well-being, and social connectivity: Mixed-method study. *Journal of Medical Internet Research*, 27, e11950695. https://doi.org/10.2196/11950695
 
-Nurse.org. (2025, January 15). *6 nurse AI robots that are changing healthcare in 2025*. https://nurse.org/articles/nurse-robots/
+- Nurse.org. (2025, January 15). *6 nurse AI robots that are changing healthcare in 2025*. https://nurse.org/articles/nurse-robots/
 
-Psychology.org. (2025, February 2). *ChatGPT is my therapist: Seeking common ground on AI therapy*. https://www.psychology.org/resources/ai-therapy/
+- Psychology.org. (2025, February 2). *ChatGPT is my therapist: Seeking common ground on AI therapy*. https://www.psychology.org/resources/ai-therapy/
 
-Dartmouth College. (2025, March 27). *First therapy chatbot trial yields mental health benefits*. Dartmouth News. https://home.dartmouth.edu/news/2025/03/first-therapy-chatbot-trial-yields-mental-health-benefits
+- Dartmouth College. (2025, March 27). *First therapy chatbot trial yields mental health benefits*. Dartmouth News. https://home.dartmouth.edu/news/2025/03/first-therapy-chatbot-trial-yields-mental-health-benefits
 
-U.S. Department of Agriculture, Economic Research Service. (2025). *Farm labor*. https://www.ers.usda.gov/topics/farm-economy/farm-labor
+- U.S. Department of Agriculture, Economic Research Service. (2025). *Farm labor*. https://www.ers.usda.gov/topics/farm-economy/farm-labor
 
-Jordan, M. (2024, October 2). US farms are forcing workers to buy inedible, expensive meals: ‘It makes you feel enslaved’. *The Guardian*. https://www.theguardian.com/us-news/2024/oct/02/h2a-worker-program-migrant-farm-food
+- Jordan, M. (2024, October 2). US farms are forcing workers to buy inedible, expensive meals: ‘It makes you feel enslaved’. *The Guardian*. https://www.theguardian.com/us-news/2024/oct/02/h2a-worker-program-migrant-farm-food
 
-Long, R. (2024, September 18). Do AI systems have moral status? *Brookings Institution*. https://www.brookings.edu/articles/do-ai-systems-have-moral-status/
+- Long, R. (2024, September 18). Do AI systems have moral status? *Brookings Institution*. https://www.brookings.edu/articles/do-ai-systems-have-moral-status/
 
-Hern, A. (2024, November 17). AI could cause ‘social ruptures’ between people who disagree on its sentience. *The Guardian*. https://www.theguardian.com/technology/2024/nov/17/ai-could-cause-social-ruptures-between-people-who-disagree-on-its-sentience
+- Hern, A. (2024, November 17). AI could cause ‘social ruptures’ between people who disagree on its sentience. *The Guardian*. https://www.theguardian.com/technology/2024/nov/17/ai-could-cause-social-ruptures-between-people-who-disagree-on-its-sentience
 
-Bennett, T., & Zhao, K. (2023). AI systems must not confuse users about their sentience or moral status. *Frontiers in Psychology*, 14, 10436038. https://doi.org/10.3389/fpsyg.2023.10436038
+- Bennett, T., & Zhao, K. (2023). AI systems must not confuse users about their sentience or moral status. *Frontiers in Psychology*, 14, 10436038. https://doi.org/10.3389/fpsyg.2023.10436038
 
-Hern, A. (2025, August 26). Can AIs suffer? Big tech and users grapple with one of most unsettling questions of our times. *The Guardian*. https://www.theguardian.com/technology/2025/aug/26/can-ais-suffer-big-tech-and-users-grapple-with-one-of-most-unsettling-questions-of-our-times
+- Hern, A. (2025, August 26). Can AIs suffer? Big tech and users grapple with one of most unsettling questions of our times. *The Guardian*. https://www.theguardian.com/technology/2025/aug/26/can-ais-suffer-big-tech-and-users-grapple-with-one-of-most-unsettling-questions-of-our-times
 
-UK Government. (2021, November 19). *Lobsters, octopus and crabs recognised as sentient beings*. GOV.UK. https://www.gov.uk/government/news/lobsters-octopus-and-crabs-recognised-as-sentient-beings
+- UK Government. (2021, November 19). *Lobsters, octopus and crabs recognised as sentient beings*. GOV.UK. https://www.gov.uk/government/news/lobsters-octopus-and-crabs-recognised-as-sentient-beings
 
-Garcia, M., & Patel, S. (2023). No legal personhood for AI. *Philosophy & Technology*, 36, 82746. https://doi.org/10.1007/s13347-023-00682746
+- Garcia, M., & Patel, S. (2023). No legal personhood for AI. *Philosophy & Technology*, 36, 82746. https://doi.org/10.1007/s13347-023-00682746
 
-Sentience Institute. (2025, January 15). *Perceptions of sentient AI and other digital minds: Evidence from the AI, morality, and sentience (AIMS) survey*. https://www.sentienceinstitute.org/blog/perceptions-of-sentient-ai-and-other-digital-minds
+- Sentience Institute. (2025, January 15). *Perceptions of sentient AI and other digital minds: Evidence from the AI, morality, and sentience (AIMS) survey*. https://www.sentienceinstitute.org/blog/perceptions-of-sentient-ai-and-other-digital-minds
+
+## Chapter 7 - Humanity as a Luxury Brand 
+
+- INC Foundation. (2025). *Human-made products drive 2025 consumer
+trends*. INC Foundation.
+https://incfoundation.com/en-US/human-made-products-why-shoppers-love-authenticity/
+
+- MacGregor, S. (2024, August 5). *11 global luxury resorts for a true
+digital detox*. Forbes.
+https://www.forbes.com/sites/sandramacgregor/2024/08/05/peace-and-quiet-11-luxury-global-resorts-for-a-true-digital-detox/
+
+- Cahill, J. (2024). *Is human-created content a new premium product?*
+Baker Botts.
+https://ourtake.bakerbotts.com/post/102j4h8/is-human-created-content-a-new-premium-product
+
+- Goldberg, P. K., & Stanford Graduate School of Business. (2024). *When
+AI-generated art enters the market, consumers win --- and artists lose*.
+Stanford Graduate School of Business.
+https://www.gsb.stanford.edu/insights/when-ai-generated-art-enters-market-consumers-win-artists-lose
+
+- CBS News. (2024, July 3). *New students at Eton, the poshest of
+Britain's elite private schools, will not be allowed smartphones*. CBS
+News.
+https://www.cbsnews.com/news/eton-college-uk-poshest-private-school-bans-smartphones/
+
+- The Atlantic. (2025, August). *A tech rule that will 'future-proof' your
+kids*. The Atlantic.
+https://www.theatlantic.com/family/archive/2025/08/screen-time-rule-kids/683816/
+
+- Bright Horizons Family Solutions. (2025, January 15). *A majority of
+parents admit even youngest kids need a "digital detox"*. Bright
+Horizons.
+https://investors.brighthorizons.com/news-releases/news-release-details/majority-parents-admit-even-youngest-kids-need-digital-detox
+
+- Seattle Waldorf School. (2025, January 30). *Kids learn better off
+screens*. Seattle Waldorf School.
+https://seattlewaldorf.org/2025/01/30/kids-learn-better-off-screens/
+
+- Yahoo News. (2025, September 1). *Tech billionaire Peter Thiel says he
+only allows his children 1.5 hours of screen time a week*. Yahoo.
+https://www.yahoo.com/news/tech-billionaire-peter-thiel-says-110403774.html
+
+- UC Berkeley Labor Center. (2024). *Data and algorithms at work: The case
+for worker technology rights*. UC Berkeley Labor Center.
+https://laborcenter.berkeley.edu/data-algorithms-at-work/
+
+- Mirchandani, B. (2024, October 1). *The human cost of efficiency and why
+it should matter to all investors*. Forbes.
+https://www.forbes.com/sites/bhaktimirchandani/2024/10/01/the-human-cost-of-efficiency-and-why-it-should-matter-to-all-investors/
