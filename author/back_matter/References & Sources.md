@@ -201,6 +201,33 @@
 
 ## Chapter 7 - Humanity as a Luxury Brand 
 
+- Bright Horizons Family Solutions. (2025, January 15). *A majority of
+parents admit even youngest kids need a "digital detox"*. Bright
+Horizons.
+https://investors.brighthorizons.com/news-releases/news-release-details/majority-parents-admit-even-youngest-kids-need-digital-detox
+
+- Cahill, J. (2024). *Is human-created content a new premium product?*
+Baker Botts.
+https://ourtake.bakerbotts.com/post/102j4h8/is-human-created-content-a-new-premium-product
+
+- CBS News. (2024, July 3). *New students at Eton, the poshest of
+Britain's elite private schools, will not be allowed smartphones*. CBS
+News.
+https://www.cbsnews.com/news/eton-college-uk-poshest-private-school-bans-smartphones/
+
+- Envato Author Hub. (2025, May 7). *Textured and timeless---the enduring
+charm of the analog aesthetic*. Envato.
+https://hub.author.envato.com/analog-aesthetic/
+
+- Garrity, T. (2025, May 2). *The analog life: 50 ways to unplug and feel
+human again*. InsideHook.
+https://www.insidehook.com/mental-health/analog-life-50-ways-unplug-feel-human-again
+
+- Goldberg, P. K., & Stanford Graduate School of Business. (2024). *When
+AI-generated art enters the market, consumers win --- and artists lose*.
+Stanford Graduate School of Business.
+https://www.gsb.stanford.edu/insights/when-ai-generated-art-enters-market-consumers-win-artists-lose
+
 - INC Foundation. (2025). *Human-made products drive 2025 consumer
 trends*. INC Foundation.
 https://incfoundation.com/en-US/human-made-products-why-shoppers-love-authenticity/
@@ -209,41 +236,35 @@ https://incfoundation.com/en-US/human-made-products-why-shoppers-love-authentici
 digital detox*. Forbes.
 https://www.forbes.com/sites/sandramacgregor/2024/08/05/peace-and-quiet-11-luxury-global-resorts-for-a-true-digital-detox/
 
-- Cahill, J. (2024). *Is human-created content a new premium product?*
-Baker Botts.
-https://ourtake.bakerbotts.com/post/102j4h8/is-human-created-content-a-new-premium-product
+- Mirchandani, B. (2024, October 1). *The human cost of efficiency and why
+it should matter to all investors*. Forbes.
+https://www.forbes.com/sites/bhaktimirchandani/2024/10/01/the-human-cost-of-efficiency-and-why-it-should-matter-to-all-investors/
 
-- Goldberg, P. K., & Stanford Graduate School of Business. (2024). *When
-AI-generated art enters the market, consumers win --- and artists lose*.
-Stanford Graduate School of Business.
-https://www.gsb.stanford.edu/insights/when-ai-generated-art-enters-market-consumers-win-artists-lose
-
-- CBS News. (2024, July 3). *New students at Eton, the poshest of
-Britain's elite private schools, will not be allowed smartphones*. CBS
-News.
-https://www.cbsnews.com/news/eton-college-uk-poshest-private-school-bans-smartphones/
-
-- The Atlantic. (2025, August). *A tech rule that will 'future-proof' your
-kids*. The Atlantic.
-https://www.theatlantic.com/family/archive/2025/08/screen-time-rule-kids/683816/
-
-- Bright Horizons Family Solutions. (2025, January 15). *A majority of
-parents admit even youngest kids need a "digital detox"*. Bright
-Horizons.
-https://investors.brighthorizons.com/news-releases/news-release-details/majority-parents-admit-even-youngest-kids-need-digital-detox
+- NDABANANIYE, J. B. (2025, September 5). *The irony of technology: Why
+tech titans limit their children's screen time---a colossal warning for
+the rest of us*. Life in Humanity.
+https://lifeinhumanity.com/the-irony-of-technology-why-tech-titans-limit-their-childrens-screen-time-a-colossal-warning-for-the-rest-of-us/
 
 - Seattle Waldorf School. (2025, January 30). *Kids learn better off
 screens*. Seattle Waldorf School.
 https://seattlewaldorf.org/2025/01/30/kids-learn-better-off-screens/
 
-- Yahoo News. (2025, September 1). *Tech billionaire Peter Thiel says he
-only allows his children 1.5 hours of screen time a week*. Yahoo.
-https://www.yahoo.com/news/tech-billionaire-peter-thiel-says-110403774.html
+- Spina, L. (2025, July 9). *Silent resorts and the rise of digital detox
+luxury*. Istituto Marangoni.
+https://www.istitutomarangoni.com/en/maze/what-are-silent-resorts-and-digital-detox
+
+- The Atlantic. (2025, August). *A tech rule that will 'future-proof' your
+kids*. The Atlantic.
+https://www.theatlantic.com/family/archive/2025/08/screen-time-rule-kids/683816/
 
 - UC Berkeley Labor Center. (2024). *Data and algorithms at work: The case
 for worker technology rights*. UC Berkeley Labor Center.
 https://laborcenter.berkeley.edu/data-algorithms-at-work/
 
-- Mirchandani, B. (2024, October 1). *The human cost of efficiency and why
-it should matter to all investors*. Forbes.
-https://www.forbes.com/sites/bhaktimirchandani/2024/10/01/the-human-cost-of-efficiency-and-why-it-should-matter-to-all-investors/
+- Waldon, G. (2025, August 26). *The analog aesthetic: 8 nostalgic habits
+making a comeback this fall*. Evie Magazine.
+https://www.eviemagazine.com/post/the-analog-aesthetic-8-nostalgic-habits-making-a-comeback-this-fall
+
+- Yahoo News. (2025, September 1). *Tech billionaire Peter Thiel says he
+only allows his children 1.5 hours of screen time a week*. Yahoo.
+https://www.yahoo.com/news/tech-billionaire-peter-thiel-says-110403774.html
