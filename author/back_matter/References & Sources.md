@@ -16,7 +16,7 @@
 - United Nations. (n.d.). *Migration.* https://www.un.org/en/global-issues/migration
 - Pew Research Center. (2024, July 22). *What we know about unauthorized immigrants living in the U.S.* https://www.pewresearch.org/short-reads/2024/07/22/what-we-know-about-unauthorized-immigrants-living-in-the-us/
 
-## Chapter 1 – *They’re Taking Our Jobs*
+## Chapter 1: *They’re Taking Our Jobs*
 
 - AlixPartners. (n.d.). *AI in creative industries: Enhancing, rather than replacing, human creativity in TV and film.* https://www.alixpartners.com/insights/102jsme/ai-in-creative-industries-enhancing-rather-than-replacing-human-creativity-in/
 - International Labour Organization. (2025). *One in four jobs at risk of being transformed by GenAI, new ILO–NASK Global Index shows.* https://www.ilo.org/resource/news/one-four-jobs-risk-being-transformed-genai-new-ilo%E2%80%93nask-global-index-shows
@@ -38,7 +38,7 @@
 - Vice. (n.d.). *Company that replaced its workers with AI regrets everything.* https://www.vice.com/en/article/this-company-replaced-workers-with-ai-now-theyre-looking-for-humans-again/
 - World Economic Forum. (2025). *Is AI closing the door on entry-level job opportunities?* https://www.weforum.org/stories/2025/04/ai-jobs-international-workers-day/
 
-## Chapter 2 – *Over Here and Overpaid*
+## Chapter 2: Over Here and Overpaid
 
 - Euronews. (2023, March 30). *AI prompt engineering: How talking to ChatGPT became the hottest tech job.* https://www.euronews.com/next/2023/03/30/ai-prompt-engineering-how-talking-to-chatgpt-became-the-hottest-tech-job-six-figure-salary
 - International Monetary Fund. (2024, January 14). *AI will transform the global economy. Let’s make sure it benefits humanity.* https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity
@@ -53,7 +53,29 @@
 - Stanford HAI. (2025). *Artificial Intelligence Index Report.* https://hai-production.s3.amazonaws.com/files/hai_ai_index_report_2025.pdf
 - E-International Relations. (2025, February 17). *Tech imperialism reloaded: AI, colonial legacies, and the Global South.* https://www.e-ir.info/2025/02/17/tech-imperialism-reloaded-ai-colonial-legacies-and-the-global-south/
 
-## Chapter 3 – *Ruining Our Culture*
+##  Chapter 3: They Don’t Integrate or Fit In
+
+- Knight First Amendment Institute. (2021). *Transparency’s AI problem*. Knight First Amendment Institute at Columbia University. https://knightcolumbia.org/content/transparencys-ai-problem
+
+- Hildebrandt, M. (2018). Black box algorithms and the rights of individuals: No easy solution to the “explainability” problem. *Internet Policy Review*. https://policyreview.info/articles/analysis/black-box-algorithms-and-rights-individuals-no-easy-solution-explainability
+
+- Booth, R. (2020, August 4). Home Office to scrap 'racist algorithm' for UK visa applicants. *The Guardian*. https://www.theguardian.com/uk-news/2020/aug/04/home-office-to-scrap-racist-algorithm-for-uk-visa-applicants
+
+- University of California, Berkeley. (2018, November 13). Mortgage algorithms perpetuate racial bias in lending, study finds. *Berkeley News*. https://news.berkeley.edu/2018/11/13/mortgage-algorithms-perpetuate-racial-bias-in-lending-study-finds/
+
+- Angwin, J., Larson, J., Mattu, S., & Kirchner, L. (2016, May 23). *Machine bias: There’s software used across the country to predict future criminals. And it’s biased against Blacks.* ProPublica. https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
+
+- University of Cambridge. (2023). AI chatbots have shown they have an ‘empathy gap’ that children are likely to miss. *University of Cambridge Research News*. https://www.cam.ac.uk/research/news/ai-chatbots-have-shown-they-have-an-empathy-gap-that-children-are-likely-to-miss
+
+- Shneiderman, B. (2021). On AI anthropomorphism. In C. Tan (Ed.), *Human-Centered AI*. Medium. https://medium.com/human-centered-ai/on-ai-anthropomorphism-abff4cecc5ae
+
+- Organisation for Economic Co-operation and Development (OECD). (2019). *OECD AI principles*. OECD. https://www.oecd.org/en/topics/sub-issues/ai-principles.html
+
+- UNESCO. (2021). *Recommendation on the ethics of artificial intelligence*. UNESCO. https://www.unesco.org/en/artificial-intelligence/recommendation-ethics
+
+- Wachter, S., Mittelstadt, B., & Russell, C. (2017). Counterfactual explanations without opening the black box: Automated decisions and the GDPR. *Harvard Journal of Law & Technology, 31*(2), 841–887. https://jolt.law.harvard.edu/assets/articlePDFs/v31/Counterfactual-Explanations-without-Opening-the-Black-Box-Sandra-Wachter-et-al.pdf
+
+## Chapter 4: Ruining Our Culture
 
 - News.mit.edu. (2024). *The creative future of generative AI | MIT News | Massachusetts Institute of Technology*. Retrieved from https://news.mit.edu/2024/creative-future-generative-ai-0102
 
@@ -103,7 +125,11 @@
 
 - En.wikipedia.org. (n.d.). *GPT-4o - Wikipedia*. Retrieved from https://en.wikipedia.org/wiki/GPT-4o
 
-## Chapter 4 – *The Synthetic Scapegoat*
+## Chapter 5: They Overload Our Public Services
+
+## Chapter 6: They Bring Crime and Disorder
+
+## Chapter 7: The Synthetic Scapegoat
 
 - Yahoo Finance. (2024, December 18). *Is AI causing tech worker layoffs? That's what CEOs suggest, but the reality is complicated.* https://uk.finance.yahoo.com/news/ai-causing-tech-worker-layoffs-184426256.html
 
@@ -131,7 +157,9 @@
 
 - Massachusetts Institute of Technology. (2024, December 5). *Study: Browsing negative content online makes mental health struggles worse.* https://news.mit.edu/2024/study-browsing-negative-content-online-makes-mental-health-struggles-worse-1205
 
-## Chapter 5 - The Algorithmic Class
+## Chapter 8: They’re Here Illegally or Unfairly
+
+## Chapter 9: The Algorithmic Class
 
 - Journal of Technology and Intellectual Property. (2025, January 30). *Algorithmic bias in AI employment decisions*. Northwestern Pritzker School of Law. https://jtip.law.northwestern.edu/2025/01/30/algorithmic-bias-in-ai-employment-decisions
 
@@ -169,7 +197,7 @@
 
 - European Commission. (2024). *AI Act: Europe’s new legal framework for artificial intelligence*. https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
 
-## Chapter 6 - Sentience, Schm‑entience
+## Chapter 10 - Sentience, Schm‑entience
 
 - American Psychological Association. (2025, January). *Trends: Classrooms adapting to artificial intelligence*. *APA Monitor on Psychology*. https://www.apa.org/monitor/2025/01/trends-classrooms-artificial-intelligence
 
@@ -199,7 +227,7 @@
 
 - Sentience Institute. (2025, January 15). *Perceptions of sentient AI and other digital minds: Evidence from the AI, morality, and sentience (AIMS) survey*. https://www.sentienceinstitute.org/blog/perceptions-of-sentient-ai-and-other-digital-minds
 
-## Chapter 7 - Humanity as a Luxury Brand 
+## Chapter 11 - Humanity as a Luxury Brand 
 
 - Bright Horizons Family Solutions. (2025, January 15). *A majority of
 parents admit even youngest kids need a "digital detox"*. Bright
@@ -268,3 +296,5 @@ https://www.eviemagazine.com/post/the-analog-aesthetic-8-nostalgic-habits-making
 - Yahoo News. (2025, September 1). *Tech billionaire Peter Thiel says he
 only allows his children 1.5 hours of screen time a week*. Yahoo.
 https://www.yahoo.com/news/tech-billionaire-peter-thiel-says-110403774.html
+
+## Chapter 12: You Are Not Redundant
