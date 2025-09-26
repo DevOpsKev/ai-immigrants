@@ -127,7 +127,61 @@
 
 ## Chapter 5: They Overload Our Public Services
 
+- The Week UK. (2024, May 15). *Babylon Health: The failed AI wonder app that “dazzled” politicians*. https://theweek.com/health/babylon-health-the-failed-ai-wonder-app-that-dazzled-politicians  
+
+- Healthcare Dive. (2018, July 26). *STAT: IBM's Watson gave “unsafe and incorrect” cancer treatment advice*. https://www.healthcaredive.com/news/stat-ibms-watson-gave-unsafe-and-incorrect-cancer-treatment-advice/528666/  
+
+- Adams, R. (2024, April 18). *Are your kids being spied on? The rise of anti-cheating software in US schools*. *The Guardian*. https://www.theguardian.com/education/2024/apr/18/us-schools-anti-cheating-software-proctorio  
+
+- Adams, R. (2020, August 13). *Who won and who lost: When A-levels meet the algorithm*. *The Guardian*. https://www.theguardian.com/education/2020/aug/13/who-won-and-who-lost-when-a-levels-meet-the-algorithm  
+
+- Wilhelm, A. (2025, January 3). *The next chapter for AI in schools: Navigating a new era with caution and curiosity*. *GeekWire*. https://www.geekwire.com/2025/the-next-chapter-for-ai-in-schools-navigating-a-new-era-with-caution-and-curiosity/  
+
+- Victoria Legal Aid. (2021, March 15). *Learning from the failures of Robodebt – Building a fairer, client-centred social security system*. https://www.legalaid.vic.gov.au/learning-from-the-failures-of-robodebt  
+
+- University of Melbourne. (2020, February 6). *The flawed algorithm at the heart of Robodebt*. *Pursuit*. https://pursuit.unimelb.edu.au/articles/the-flawed-algorithm-at-the-heart-of-robodebt  
+
+- Mitchell, H. (2025, September 4). *Robodebt victims to get further $475 million compensation after class action settled*. *ABC News*. https://www.abc.net.au/news/2025-09-04/robodebt-victims-get-compensation-from-class-action/105734030  
+
+- Blavatnik School of Government. (2020, March 3). *Australia’s Robodebt scheme: A tragic case of public policy failure*. https://www.bsg.ox.ac.uk/blog/australias-robodebt-scheme-tragic-case-public-policy-failure  
+
+- Amnesty International. (2021, October 14). *Dutch childcare benefit scandal an urgent wake-up call to ban racist algorithms*. https://www.amnesty.org/en/latest/news/2021/10/xenophobic-machines-dutch-child-benefit-scandal/  
+
+- Corporate Watch. (2023, December 7). *No Palantir in the NHS and Corporate Watch reveal the real story behind the Federated Data Platform rollout*. https://corporatewatch.org/foi-requests-reveal-palantirs-nhs-fdp-rollout-failures/  
+
+- Tech Monitor. (2022, March 9). *Why can’t the NHS quit Palantir?* https://www.techmonitor.ai/policy/why-cant-the-nhs-quit-palantir  
+
 ## Chapter 6: They Bring Crime and Disorder
+
+- European Parliament. (2024). *Artificial intelligence and human rights: Using AI as a weapon of repression and its impact on human rights*. https://www.europarl.europa.eu/RegData/etudes/IDAN/2024/754450/EXPO_IDA(2024)754450_EN.pdf
+
+- U.S. Department of Justice. (2024, December 3). *Artificial intelligence and criminal justice: Final report*. https://www.justice.gov/olp/media/1381796/dl
+
+- Reuters. (2025, June 25). *Meta fends off authors' US copyright lawsuit over AI*. https://www.reuters.com/sustainability/boards-policy-regulation/meta-fends-off-authors-us-copyright-lawsuit-over-ai-2025-06-25/
+
+- MIT Sloan. (2025). *Bringing transparency to the data used to train artificial intelligence*. https://mitsloan.mit.edu/ideas-made-to-matter/bringing-transparency-to-data-used-to-train-artificial-intelligence
+
+- Electronic Frontier Foundation. (2024, January). *Worried about AI voice clone scams? Create a family password*. https://www.eff.org/deeplinks/2024/01/worried-about-ai-voice-clone-scams-create-family-password
+
+- Hern, A. (2024, May 17). *UK engineering firm Arup falls victim to £20m deepfake scam*. *The Guardian*. https://www.theguardian.com/technology/article/2024/may/17/uk-engineering-arup-deepfake-scam-hong-kong-ai-video
+
+- OpenAI. (2025, June). *Disrupting malicious uses of AI*. https://cdn.openai.com/threat-intelligence-reports/5f73af09-a3a3-4a55-992e-069237681620/disrupting-malicious-uses-of-ai-june-2025.pdf
+
+- Cimpanu, C. (2025, May 27). *OpenAI confirms threat actors use ChatGPT to write malware*. *BleepingComputer*. https://www.bleepingcomputer.com/news/security/openai-confirms-threat-actors-use-chatgpt-to-write-malware/
+
+- HIPAA Journal. (2025, July). *Data breaches up 10% although victim count falls sharply*. https://www.hipaajournal.com/h1-2025-data-breach-report/
+
+- Central Michigan University. (2024, November 11). *How can you protect your privacy, money from AI?* https://www.cmich.edu/news/details/how-can-you-protect-your-privacy-money-from-ai
+
+- Identity Week. (2024, December). *AI fuels surge in identity fraud, as people sell their personal information*. https://identityweek.net/ai-fuels-surge-in-identity-fraud-as-people-sell-their-personal-information/
+
+- Booth, R. (2024, November 30). *Instagram actively helping spread of self-harm among teenagers, study finds*. *The Guardian*. https://www.theguardian.com/technology/2024/nov/30/instagram-actively-helping-to-spread-of-self-harm-among-teenagers-study-suggests
+
+- O’Halloran, L., & Quayle, E. (2023). *Social media, extremism, and radicalization*. *Frontiers in Psychology*, 14, 10468141. https://pmc.ncbi.nlm.nih.gov/articles/PMC10468141/
+
+- Marchant, A., et al. (2025). *Online safety when considering self-harm and suicide-related content: Qualitative focus group study with young people, policy makers, and social media industry professionals*. *JMIR Pediatrics and Parenting*, 8(1), e11933773. https://pmc.ncbi.nlm.nih.gov/articles/PMC11933773/
+
+- Mozilla Foundation. (2024). *In transparency we trust?* https://www.mozillafoundation.org/en/research/library/in-transparency-we-trust/research-report/
 
 ## Chapter 7: The Synthetic Scapegoat
 
