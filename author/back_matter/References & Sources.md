@@ -213,6 +213,37 @@
 
 ## Chapter 8: They’re Here Illegally or Unfairly
 
+- Maslej, N., Fattorini, L., Perrault, R., Gil, Y., & Oak, S. (2025). *Artificial intelligence index report 2025* (8th ed.). AI Index Steering Committee, Stanford Human‑Centered Artificial Intelligence. https://hai.stanford.edu/assets/files/hai_ai_index_report_2025.pdf 
+
+- Arun, C. (2025, March 7). ‘Data colonialism’ and the political economy of big tech. *Lawfare*. https://www.lawfaremedia.org/article/data-colonialism--and-the-political-economy-of-big-tech 
+
+- Harvard Law Review. (2023, June 22). Data colonialism and data sets. *Harvard Law Review Blog*. https://harvardlawreview.org/blog/2023/06/data-colonialism-and-data-sets/ 
+
+- Brittain, B. (2025, August 26). Anthropic settles class action from US authors alleging copyright infringement. *Reuters*. https://www.reuters.com/sustainability/boards-policy-regulation/anthropic-settles-class-action-us-authors-alleging-copyright-infringement-2025-08-26/ 
+
+- Scarcella, M. (2025, September 5). Apple sued by authors over use of books in AI training. *Reuters*. https://www.reuters.com/sustainability/boards-policy-regulation/apple-sued-by-authors-over-use-books-ai-training-2025-09-05/ 
+
+- Issue One. (2025, July 22). As Washington debates major tech and AI policy changes, Big Tech’s lobbying is relentless. https://issueone.org/press/tech-and-ai-policy-changes-debate-big-techs-lobbying-is-relentless/ 
+
+- Johnson, K. (2025, May 16). Congress moves to cut off states’ AI regulations. *The Markup*. https://themarkup.org/artificial-intelligence/2025/05/16/congress-moves-to-cut-off-states-ai-regulations 
+
+- Perrigo, B. (2023, January 18). Exclusive: OpenAI used Kenyan workers on less than $2 per hour to make ChatGPT less toxic. *TIME*. https://time.com/6247678/openai-chatgpt-kenya-workers/ 
+
+- Panditharatne, M. (2024, April 16). Preparing to fight AI‑backed voter suppression. *Brennan Center for Justice*. https://www.brennancenter.org/our-work/research-reports/preparing-fight-ai-backed-voter-suppression 
+
+- Lendvai, G. F., & Gosztonyi, G. (2025). Algorithmic bias as a core legal dilemma in the age of artificial intelligence: Conceptual basis and the current state of regulation. *Laws, 14*(3), 41. https://www.mdpi.com/2075-471X/14/3/41 
+
+- Bisram, J. (2025, August 27). Facial recognition technology error led to wrongful arrest, Brooklyn father says. *CBS News New York*. https://www.cbsnews.com/newyork/news/nyc-facial-recognition-technology-wrongful-arrest-indecent-exposure/ 
+
+- Gross, P. (2025, February 4). Facial recognition in policing is getting state‑by‑state guardrails. *Stateline*. https://stateline.org/2025/02/04/facial-recognition-in-policing-is-getting-state-by-state-guardrails/ 
+
+- PYMNTS. (2025, May 12). EU member states face funding shortages to enforce AI Act. *PYMNTS.com*. https://www.pymnts.com/artificial-intelligence-2/2025/eu-member-states-face-funding-shortages-to-enforce-ai-act/ 
+
+- EU Digital Law. (2025, May 16). AI Act faces enforcement challenges due to budget and expertise shortages. https://eudigitallaw.com/ai-act-faces-enforcement-challenges-due-to-budget-and-expertise-shortages/ 
+
+- Bartholomew, J. (2025, March 15). ‘It’s happening fast’ – creative workers and professionals share their fears and hopes about the rise of AI. *The Guardian*. https://www.theguardian.com/technology/2025/mar/15/its-happening-fast-creative-workers-and-professionals-share-their-fears-and-hopes-about-the-rise-of-ai 
+
+
 ## Chapter 9: The Algorithmic Class
 
 - Journal of Technology and Intellectual Property. (2025, January 30). *Algorithmic bias in AI employment decisions*. Northwestern Pritzker School of Law. https://jtip.law.northwestern.edu/2025/01/30/algorithmic-bias-in-ai-employment-decisions

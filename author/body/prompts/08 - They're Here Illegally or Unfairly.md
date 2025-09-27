@@ -1,7 +1,7 @@
-# Generic Agentic Prompt Template
+# Agentic Prompt – Chapter 8
 
 **TASK**
- Write **Chapter [X] — “[TITLE]”** for *AI Immigrants: The Bloody Algos Are Here!*.
+ Write **Chapter 8 — “They’re Here Illegally or Unfairly”** for *AI Immigrants: The Bloody Algos Are Here!*
 
 **TARGET LENGTH**: 4,000–4,500 words
 
@@ -44,24 +44,34 @@
 
 ## STRUCTURE (MANDATORY)
 
-- **Hook (mandatory):** A punchy opening line, image, or anecdote.
-- **6–8 sections** (≈400–800 words each) with clear subheadings.
-- Integrate metaphors and the “AI immigrant” framing where helpful.
-- **Close:** A short, sharp takeaway — focusing on agency, accountability, or policy.
+- **Hook (mandatory):** A punchy opening line or metaphor (“They don’t arrive with papers, they arrive with servers…”).
+- **7 sections** (≈500–650 words each):
+  1. **The invasion without borders** – AI companies as entities richer than nations, moving faster than law.
+  2. **Move fast, bend rules** – how they stretch or ignore laws until regulators catch up (and by then, it’s too late).
+  3. **Data extraction economy** – “they came for our data, not our jobs,” emotional farming and vote-selling.
+  4. **Queue-jumping and unfair advantage** – analogy of immigrants waiting years while AI cuts in line.
+  5. **National policy vs borderless AI** – lawmakers underfunded and outgunned by trillion-dollar firms.
+  6. **The human cost** – short vignettes of artists, citizens, or small businesses harmed by unfair data or platform practices.
+  7. **From unfair entry to occupation** – the shift from illegality to permanence, foreshadowing *The AI Occupation*.
+- **Close:** A sharp reflection — “What begins as unfair entry hardens into permanent presence. That is no longer immigration. That is occupation.”
 
 ------
 
 ## SCOPE & KEY TOPICS
 
-- [Fill in specific focus points for this chapter, e.g., scams, cultural disruption, surveillance, etc.]
-- Include **short human vignettes** to illustrate impacts (individuals, families, communities).
-- Keep the immigrant metaphor present but not forced — use it to highlight precarity, fairness, and power.
+- AI firms evading national jurisdiction.
+- “Data colonialism” — extraction without consent.
+- Lawmakers too slow, underfunded, or technically ill-equipped.
+- Copyright and consent (art, books, music training sets).
+- Facial recognition / justice system bias.
+- Emotional manipulation and voter influence.
+- The immigrant metaphor: queue-jumping, unfair advantage, law-bending.
 
 ------
 
 ## MANDATORY WRITING RULES
 
-- Plain English; define technical terms with a one-line analogy.
+- Plain English; define technical terms with analogies.
 - Avoid hype, cynicism, and sci-fi tropes.
 - Explain mechanisms clearly — show who profits and who loses.
 - Use reputable sources: peer-reviewed research, NGO/government reports, or major journalism.
