@@ -383,3 +383,21 @@ only allows his children 1.5 hours of screen time a week*. Yahoo.
 https://www.yahoo.com/news/tech-billionaire-peter-thiel-says-110403774.html
 
 ## Chapter 12: You Are Not Redundant
+
+- ThoughtCo. (2020, August 27). *1984 quotes explained*. ThoughtCo. https://www.thoughtco.com/1984-quotes-740884
+
+- Bontcheva, K., & Posetti, J. (2023). *AI-driven disinformation: Policy recommendations for democratic resilience*. PLOS Medicine, 20(3), e12351547. https://pmc.ncbi.nlm.nih.gov/articles/PMC12351547/
+
+- Brennan Center for Justice. (2023, October 25). *Gauging the AI threat to free and fair elections*. Brennan Center for Justice. https://www.brennancenter.org/our-work/analysis-opinion/gauging-ai-threat-free-and-fair-elections
+
+- Grantham Research Institute on Climate Change and the Environment. (2023). *What are climate misinformation and disinformation and what is their impact?* London School of Economics. https://www.lse.ac.uk/granthaminstitute/explainers/what-are-climate-misinformation-and-disinformation/
+
+- Phillips, J. (2023, September 8). *FALSE: How mistrust, disinformation, and motivated reasoning make us believe things that aren’t true*. Psychiatric Times. https://www.psychiatrictimes.com/view/false-how-mistrust-disinformation-and-motivated-reasoning-make-us-believe-things-that-arent-true
+
+- Wikipedia contributors. (2025, August 28). *Chatbot psychosis*. In *Wikipedia*. https://en.wikipedia.org/wiki/Chatbot_psychosis
+
+- McStay, A., & Ahmed, S. (2023). *Emotional AI and the future of wellbeing in the post-pandemic workplace*. PLOS ONE, 18(1), e9904863. https://pmc.ncbi.nlm.nih.gov/articles/PMC9904863/
+
+- Wikipedia contributors. (2025, March 10). *Reinforcement learning from human feedback*. In *Wikipedia*. https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback
+
+- Sogolytics. (2023, June 6). *Human-in-the-loop: Maintaining control in an AI-powered world*. Sogolytics Blog. https://www.sogolytics.com/blog/human-in-the-loop-ai/
