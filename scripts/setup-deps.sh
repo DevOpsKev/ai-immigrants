@@ -9,11 +9,6 @@ echo "==> Installing system dependencies..."
 sudo apt-get update -qq || echo "    Warning: apt-get update had errors (non-essential repos), continuing..."
 sudo apt-get install -y -qq librsvg2-bin pandoc > /dev/null
 
-echo "==> Installing fonts from repo..."
-sudo mkdir -p /usr/local/share/fonts/sdd-book
-sudo cp "$FONT_DIR"/*.ttf /usr/local/share/fonts/sdd-book/
-sudo fc-cache -f
-
 echo "==> Verifying..."
 command -v rsvg-convert > /dev/null && echo "    rsvg-convert: OK" || { echo "    rsvg-convert: MISSING"; exit 1; }
 command -v pandoc > /dev/null && echo "    pandoc: OK" || { echo "    pandoc: MISSING"; exit 1; }
