@@ -1,0 +1,47 @@
+name: Build & Deploy Book
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup dependencies
+        run: |
+          chmod +x scripts/setup-deps.sh
+          ./scripts/setup-deps.sh
+
+      - name: Build EPUB
+        run: python3 scripts/build-epub.py
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-immigrants
+          path: output/ai-immigrants.epub
+
+      - name: Azure Login
+        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+        uses: azure/login@v2
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+      - name: Deploy to Blob Storage
+        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+        run: |
+          az storage blob upload \
+            --account-name ${{ secrets.STORAGE_ACCOUNT_NAME }} \
+            --container-name downloads \
+            --name ai-immigrants.epub \
+            --file output/ai-immigrants.epub \
+            --overwrite \
+            --auth-mode login

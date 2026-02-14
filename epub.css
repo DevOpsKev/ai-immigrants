@@ -1,0 +1,70 @@
+/* AI Immigrants EPUB Stylesheet */
+
+/* Force page breaks before front matter sections */
+.dedication,
+.epigraph,
+.copyright {
+    page-break-before: always;
+}
+
+/* Dedication styling - centered, upper third of page */
+.dedication {
+    text-align: center;
+    margin-top: 30%;
+}
+
+.dedication p {
+    font-style: italic;
+}
+
+/* Epigraph styling */
+.epigraph {
+    margin-top: 20%;
+}
+
+.epigraph blockquote {
+    font-style: italic;
+    margin: 2em 1em;
+    border: none;
+}
+
+.epigraph blockquote p:last-child {
+    text-align: right;
+    font-style: normal;
+}
+
+/* Copyright page - smaller text */
+.copyright {
+    font-size: 0.9em;
+}
+
+.copyright hr {
+    margin: 1.5em 0;
+    border: none;
+    border-top: 1px solid #ccc;
+}
+
+/* Chapter headings */
+h1 {
+    page-break-before: always;
+    margin-top: 20%;
+}
+
+/* Prevent orphans and widows */
+p {
+    orphans: 2;
+    widows: 2;
+}
+
+/* Block quotes in chapters */
+blockquote {
+    margin: 1em 2em;
+    padding-left: 1em;
+    border-left: 3px solid #ccc;
+    font-style: italic;
+}
+
+/* Strong emphasis */
+strong {
+    font-weight: bold;
+}

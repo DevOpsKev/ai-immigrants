@@ -1,0 +1,403 @@
+# References & Sources 
+
+## Author’s Note 
+
+- DW News. (2024, March 26). *Sweden’s population shrinks for first time in 50 years.* DW. https://www.dw.com/en/swedens-population-shrinks-for-first-time-in-50-years/a-69893811 
+
+- U.S. News & World Report. (2024, December 19). *Immigration drives US population growth to highest rate in 23 years as residents pass 340 million.* https://www.usnews.com/news/us/articles/2024-12-19/immigration-drives-us-population-growth-to-highest-rate-in-23-years-as-residents-pass-340-million 
+
+- United Nations. (n.d.). *Migration.* https://www.un.org/en/global-issues/migration 
+
+- Pew Research Center. (2024, July 22). *What we know about unauthorized immigrants living in the U.S.* https://www.pewresearch.org/short-reads/2024/07/22/what-we-know-about-unauthorized-immigrants-living-in-the-us/ 
+
+## Chapter 1: *They’re Taking Our Jobs* 
+
+- AlixPartners. (n.d.). *AI in creative industries: Enhancing, rather than replacing, human creativity in TV and film.* https://www.alixpartners.com/insights/102jsme/ai-in-creative-industries-enhancing-rather-than-replacing-human-creativity-in/ 
+
+- International Labour Organization. (2025). *One in four jobs at risk of being transformed by GenAI, new ILO–NASK Global Index shows.* https://www.ilo.org/resource/news/one-four-jobs-risk-being-transformed-genai-new-ilo%E2%80%93nask-global-index-shows 
+
+- International Labour Organization. (2025). *Research brief: May 2025.* https://www.ilo.org/sites/default/files/2025-05/Research%20brief_FINAL_15May2025_21.05.25_1.pdf 
+
+- International Monetary Fund. (2024, January 14). *AI will transform the global economy. Let’s make sure it benefits humanity.* https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity 
+
+- Knowledge4Policy. (n.d.). *Threats and opportunities from automation and robotisation.* https://knowledge4policy.ec.europa.eu/foresight/topic/changing-nature-work/new-technologies-automation-work-developments_en 
+
+- McKinsey & Company. (2023). *The economic potential of generative AI.* https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier 
+
+- McKinsey & Company. (2025). *AI in the workplace: A report for 2025.* https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/superagency-in-the-workplace-empowering-people-to-unlock-ais-full-potential-at-work 
+
+- MIT Sloan. (n.d.). *How generative AI affects highly skilled workers.* https://mitsloan.mit.edu/ideas-made-to-matter/how-generative-ai-affects-highly-skilled-workers 
+
+- MIT News. (2024, April 1). *Does technology help or hurt employment?* https://news.mit.edu/2024/does-technology-help-or-hurt-employment-0401 
+
+- National Archives. (n.d.). *Why did the Luddites protest?* https://www.nationalarchives.gov.uk/education/resources/why-did-the-luddites-protest/ 
+
+- Acas. (2024, May 16). *1 in 4 workers worry that AI will lead to job losses*. Acas. https://www.acas.org.uk/about-us/news-and-blogs/1-in-4-workers-worry-that-ai-will-lead-to-job-losses 
+
+- Office of the Historian. (n.d.). *Milestones: Chinese immigration.* U.S. Department of State. https://history.state.gov/milestones/1866-1898/chinese-immigration 
+
+- OpenEdition Journals. (n.d.). *An analysis of the anti-immigration discourse during the official 2016 Brexit referendum campaign.* https://journals.openedition.org/osb/5821 
+
+- Pew Research Center. (2025, February 25). *On future AI use in the workplace, U.S. workers more worried than hopeful.* https://www.pewresearch.org/social-trends/2025/02/25/u-s-workers-are-more-worried-than-hopeful-about-future-ai-use-in-the-workplace/ 
+
+- Pew Research Center. (2025, February 25). *Which workers use AI in their jobs.* https://www.pewresearch.org/social-trends/2025/02/25/workers-exposure-to-ai/ 
+
+- RAND. (2024, September). *Is AI threatening health care jobs? Or just changing them?* https://www.rand.org/pubs/commentary/2024/09/is-ai-threatening-health-care-jobs-or-just-changing.html 
+
+- SeaRates Blog. (2025). *Autonomous trucks in 2025: A global snapshot.* https://www.searates.com/blog/post/autonomous-trucks-in-2025-a-global-snapshot-of-deployment-use-cases-and-what-comes-next 
+
+- Tech.co. (2025). *Companies that have replaced workers with AI in 2024 & 2025.* https://tech.co/news/companies-replace-workers-with-ai 
+
+- Vice. (n.d.). *Company that replaced its workers with AI regrets everything.* https://www.vice.com/en/article/this-company-replaced-workers-with-ai-now-theyre-looking-for-humans-again/ 
+
+- World Economic Forum. (2025). *Is AI closing the door on entry-level job opportunities?* https://www.weforum.org/stories/2025/04/ai-jobs-international-workers-day/ 
+
+## Chapter 2: Over Here and Overpaid 
+
+- Euronews. (2023, March 30). *AI prompt engineering: How talking to ChatGPT became the hottest tech job.* https://www.euronews.com/next/2023/03/30/ai-prompt-engineering-how-talking-to-chatgpt-became-the-hottest-tech-job-six-figure-salary 
+
+- International Monetary Fund. (2024, January 14). *AI will transform the global economy. Let’s make sure it benefits humanity.* https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity 
+
+- IoT Analytics. (2025). *The leading generative AI companies.* https://iot-analytics.com/leading-generative-ai-companies/ 
+
+- Lightcast. (2025, July 23). *New Lightcast report: AI skills command 28% salary premium.* https://lightcast.io/resources/blog/beyond-the-buzz-press-release-2025-07-23 
+
+- Lightcast. (2025). *Beyond the buzz: Developing the AI skills employers actually need.* https://lightcast.io/resources/research/beyond-the-buzz-developing-the-ai-skills-employers-actually-need 
+
+- Marketing AI Institute. (2025). *The World Economic Forum’s Future of Jobs Report just dropped.* https://www.marketingaiinstitute.com/blog/world-economic-forum-future-of-jobs 
+
+- Oxfam International. (2024). *Inequality Inc.: How corporate power divides our world and the need for a new era of public action.* https://oi-files-d8-prod.s3.eu-west-2.amazonaws.com/s3fs-public/2024-01/Davos%202024%20Report-%20English.pdf 
+
+- Pew Research Center. (2025, February 25). *On future AI use in the workplace, U.S. workers more worried than hopeful.* https://www.pewresearch.org/social-trends/2025/02/25/u-s-workers-are-more-worried-than-hopeful-about-future-ai-use-in-the-workplace/ 
+
+- PwC. (2024). *AI Jobs Barometer.* https://www.pwc.com/hu/hu/sajtoszoba/assets/ai_jobs_barometer_2024.pdf 
+
+- Reuters. (Various Dates). Articles on AI workforce impacts, corporate changes, and market shifts. (See manuscript for individual article links.) 
+
+- Stanford HAI. (2025). *Artificial Intelligence Index Report.* https://hai-production.s3.amazonaws.com/files/hai_ai_index_report_2025.pdf 
+
+- E-International Relations. (2025, February 17). *Tech imperialism reloaded: AI, colonial legacies, and the Global South.* https://www.e-ir.info/2025/02/17/tech-imperialism-reloaded-ai-colonial-legacies-and-the-global-south/ 
+
+## Chapter 3: They Don’t Integrate or Fit In 
+
+- Knight First Amendment Institute. (2021). *Transparency’s AI problem*. Knight First Amendment Institute at Columbia University. https://knightcolumbia.org/content/transparencys-ai-problem 
+
+- Hildebrandt, M. (2018). Black box algorithms and the rights of individuals: No easy solution to the “explainability” problem. *Internet Policy Review*. https://policyreview.info/articles/analysis/black-box-algorithms-and-rights-individuals-no-easy-solution-explainability 
+
+- Booth, R. (2020, August 4). Home Office to scrap 'racist algorithm' for UK visa applicants. *The Guardian*. https://www.theguardian.com/uk-news/2020/aug/04/home-office-to-scrap-racist-algorithm-for-uk-visa-applicants 
+
+- University of California, Berkeley. (2018, November 13). Mortgage algorithms perpetuate racial bias in lending, study finds. *Berkeley News*. https://news.berkeley.edu/2018/11/13/mortgage-algorithms-perpetuate-racial-bias-in-lending-study-finds/ 
+
+- Angwin, J., Larson, J., Mattu, S., & Kirchner, L. (2016, May 23). *Machine bias: There’s software used across the country to predict future criminals. And it’s biased against Blacks.* ProPublica. https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing 
+
+- University of Cambridge. (2023). AI chatbots have shown they have an ‘empathy gap’ that children are likely to miss. *University of Cambridge Research News*. https://www.cam.ac.uk/research/news/ai-chatbots-have-shown-they-have-an-empathy-gap-that-children-are-likely-to-miss 
+
+- Shneiderman, B. (2021). On AI anthropomorphism. In C. Tan (Ed.), *Human-Centered AI*. Medium. https://medium.com/human-centered-ai/on-ai-anthropomorphism-abff4cecc5ae 
+
+- Organisation for Economic Co-operation and Development (OECD). (2019). *OECD AI principles*. OECD. https://www.oecd.org/en/topics/sub-issues/ai-principles.html 
+
+- UNESCO. (2021). *Recommendation on the ethics of artificial intelligence*. UNESCO. https://www.unesco.org/en/artificial-intelligence/recommendation-ethics 
+
+- Soroptimist International. (2021). *UNESCO’s Recommendation on the Ethics of Artificial Intelligence emphasises human rights, transparency, accountability and data governance*. Soroptimist International. https://www.soroptimistinternational.org/unescos-recommendation-on-the-ethics-of-artificial-intelligence/ 
+
+- Wachter, S., Mittelstadt, B., & Russell, C. (2017). Counterfactual explanations without opening the black box: Automated decisions and the GDPR. *Harvard Journal of Law & Technology, 31*(2), 841–887. https://jolt.law.harvard.edu/assets/articlePDFs/v31/Counterfactual-Explanations-without-Opening-the-Black-Box-Sandra-Wachter-et-al.pdf 
+
+## Chapter 4: Ruining Our Culture 
+
+- News.mit.edu. (2024). *The creative future of generative AI | MIT News | Massachusetts Institute of Technology*. Retrieved from https://news.mit.edu/2024/creative-future-generative-ai-0102 
+
+- Theverge.com. (2024). *AI music startups say copyright violation is just rock and roll | The Verge*. Retrieved from https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use 
+
+- Riaa.com. (n.d.). *Record Companies Bring Landmark Cases for Responsible AI Against Suno and Udio in Boston and New York Federal Courts, Respectively - RIAA*. Retrieved from https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/ 
+
+- Theguardian.com. (2023). *AI song featuring fake Drake and Weeknd vocals pulled from streaming services | Drake | The Guardian*. Retrieved from https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services 
+
+- Ts2.tech. (n.d.). *AI-Generated Music Is Exploding in 2025 – Inside the Revolution Shaking the Music Industry*. Retrieved from https://ts2.tech/en/ai-generated-music-is-exploding-in-2025-inside-the-revolution-shaking-the-music-industry/ 
+
+- Theartnewspaper.com. (2024). *Leaked: the names of more than 16,000 non-consenting artists allegedly used to train Midjourney’s AI - The Art Newspaper*. Retrieved from https://www.theartnewspaper.com/2024/01/04/leaked-names-of-16000-artists-used-to-train-midjourney-ai 
+
+- Theartnewspaper.com. (2024). *US artists score victory in landmark AI copyright case - The Art Newspaper*. Retrieved from https://www.theartnewspaper.com/2024/08/15/us-artists-score-victory-in-landmark-ai-copyright-case 
+
+- Theguardian.com. (2024). *Sora: OpenAI launches tool that instantly creates video from text | The Guardian*. Retrieved from https://www.theguardian.com/technology/2024/feb/15/openai-sora-ai-model-video 
+
+- Brookings.edu. (n.d.). *Impact of OpenAI's Sora on Creative Industries*. Retrieved from https://www.brookings.edu/articles/how-openais-sora-hurts-the-creative-industries/ 
+
+- Eweek.com. (n.d.). *OpenAI Sora: Revolutionary Text-to-Video Tool*. Retrieved from - https://www.eweek.com/artificial-intelligence/openai-sora-overview/ 
+
+- Idpro.org. (n.d.). *AI and The Death of Authenticity - IDPro*. Retrieved from https://idpro.org/ai-and-the-death-of-authenticity/ 
+
+- Blog.adobe.com. (2024). *Authenticity in the Age of AI | Adobe Blog*. Retrieved from https://blog.adobe.com/en/publish/2024/09/18/authenticity-age-ai-growing-content-credentials-momentum-across-social-media-platforms-ai-companies-rising-consumer-awareness 
+
+- Cjr.org. (n.d.). *What Journalists Should Know About Deepfake Detection in 2025 - Columbia Journalism Review*. Retrieved from https://www.cjr.org/tow_center/what-journalists-should-know-about-deepfake-detection-technology-in-2025-a-non-technical-guide.php 
+
+- Hai.stanford.edu. (n.d.). *AI Index 2025: State of AI in 10 Charts | Stanford HAI*. Retrieved from https://hai.stanford.edu/news/ai-index-2025-state-of-ai-in-10-charts 
+
+- Sydney.edu.au. (2024). *The joke's on us – how AI is replicating our laughter online - The University of Sydney*. Retrieved from https://www.sydney.edu.au/news-opinion/news/2024/06/03/the-jokes-on-us-ai-replicating-laughter-humour-expert.html 
+
+- Stackoverflow.blog. (2024). *Generative AI is not going to build your engineering team for you - Stack Overflow*. Retrieved from https://stackoverflow.blog/2024/12/31/generative-ai-is-not-going-to-build-your-engineering-team-for-you/ 
+
+- Metr.org. (2025). *Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity - METR*. Retrieved from https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/ 
+
+- Brookings.edu. (n.d.). *How language gaps constrain generative AI development | Brookings*. Retrieved from https://www.brookings.edu/articles/how-language-gaps-constrain-generative-ai-development/ 
+
+- Nevillehobson.io. (n.d.). *Whose English Does AI Speak?*. Retrieved from https://www.nevillehobson.io/whose-english-does-ai-speak/ 
+
+- Home.dartmouth.edu. (2025). *Language Preservation Efforts Get an AI Boost | Dartmouth*. Retrieved from https://home.dartmouth.edu/news/2025/04/language-preservations-efforts-get-ai-boost 
+
+- Tech-now.io. (n.d.). *AI Influencer Take Over: The New Face of Marketing in 2025 - TechNow*. Retrieved from https://tech-now.io/en/blogs/ai-influencer-take-over-the-new-face-of-marketing-in-2025 
+
+- Disruptmarketing.co. (n.d.). *AI: The artificial influencer problem runs deep - Disrupt*. Retrieved from https://disruptmarketing.co/blog/ai-the-artificial-influencer-problem-runs-deep/ 
+
+- Influencermarketinghub.com. (n.d.). *Influencer Marketing 2025 Predictions [265 Expert Insights]*. Retrieved from https://influencermarketinghub.com/influencer-marketing-expert-insights-predictions-2025/ 
+
+- En.wikipedia.org. (n.d.). *GPT-4o - Wikipedia*. Retrieved from https://en.wikipedia.org/wiki/GPT-4o 
+
+## Chapter 5: They Overload Our Public Services 
+
+- The Week UK. (2024, May 15). *Babylon Health: The failed AI wonder app that “dazzled” politicians*. https://theweek.com/health/babylon-health-the-failed-ai-wonder-app-that-dazzled-politicians 
+
+- Healthcare Dive. (2018, July 26). *STAT: IBM's Watson gave “unsafe and incorrect” cancer treatment advice*. https://www.healthcaredive.com/news/stat-ibms-watson-gave-unsafe-and-incorrect-cancer-treatment-advice/528666/ 
+
+- Adams, R. (2024, April 18). *Are your kids being spied on? The rise of anti-cheating software in US schools*. *The Guardian*. https://www.theguardian.com/education/2024/apr/18/us-schools-anti-cheating-software-proctorio 
+
+- Adams, R. (2020, August 13). *Who won and who lost: When A-levels meet the algorithm*. *The Guardian*. https://www.theguardian.com/education/2020/aug/13/who-won-and-who-lost-when-a-levels-meet-the-algorithm 
+
+- Wilhelm, A. (2025, January 3). *The next chapter for AI in schools: Navigating a new era with caution and curiosity*. *GeekWire*. https://www.geekwire.com/2025/the-next-chapter-for-ai-in-schools-navigating-a-new-era-with-caution-and-curiosity/ 
+
+- Victoria Legal Aid. (2021, March 15). *Learning from the failures of Robodebt – Building a fairer, client-centred social security system*. https://www.legalaid.vic.gov.au/learning-from-the-failures-of-robodebt 
+
+- University of Melbourne. (2020, February 6). *The flawed algorithm at the heart of Robodebt*. *Pursuit*. https://pursuit.unimelb.edu.au/articles/the-flawed-algorithm-at-the-heart-of-robodebt 
+
+- Mitchell, H. (2025, September 4). *Robodebt victims to get further $475 million compensation after class action settled*. *ABC News*. https://www.abc.net.au/news/2025-09-04/robodebt-victims-get-compensation-from-class-action/105734030 
+
+- Blavatnik School of Government. (2020, March 3). *Australia’s Robodebt scheme: A tragic case of public policy failure*. https://www.bsg.ox.ac.uk/blog/australias-robodebt-scheme-tragic-case-public-policy-failure 
+
+- Amnesty International. (2021, October 14). *Dutch childcare benefit scandal an urgent wake-up call to ban racist algorithms*. https://www.amnesty.org/en/latest/news/2021/10/xenophobic-machines-dutch-child-benefit-scandal/ 
+
+- Corporate Watch. (2023, December 7). *No Palantir in the NHS and Corporate Watch reveal the real story behind the Federated Data Platform rollout*. https://corporatewatch.org/foi-requests-reveal-palantirs-nhs-fdp-rollout-failures/ 
+
+- Tech Monitor. (2022, March 9). *Why can’t the NHS quit Palantir?* https://www.techmonitor.ai/policy/why-cant-the-nhs-quit-palantir 
+
+## Chapter 6: They Bring Crime and Disorder 
+
+- European Parliament. (2024). *Artificial intelligence and human rights: Using AI as a weapon of repression and its impact on human rights*. https://www.europarl.europa.eu/RegData/etudes/IDAN/2024/754450/EXPO_IDA(2024)754450_EN.pdf 
+
+- U.S. Department of Justice. (2024, December 3). *Artificial intelligence and criminal justice: Final report*. https://www.justice.gov/olp/media/1381796/dl 
+
+- Reuters. (2025, June 25). *Meta fends off authors' US copyright lawsuit over AI*. https://www.reuters.com/sustainability/boards-policy-regulation/meta-fends-off-authors-us-copyright-lawsuit-over-ai-2025-06-25/ 
+
+- MIT Sloan. (2025). *Bringing transparency to the data used to train artificial intelligence*. https://mitsloan.mit.edu/ideas-made-to-matter/bringing-transparency-to-data-used-to-train-artificial-intelligence 
+
+- Electronic Frontier Foundation. (2024, January). *Worried about AI voice clone scams? Create a family password*. https://www.eff.org/deeplinks/2024/01/worried-about-ai-voice-clone-scams-create-family-password 
+
+- Hern, A. (2024, May 17). *UK engineering firm Arup falls victim to £20m deepfake scam*. *The Guardian*. https://www.theguardian.com/technology/article/2024/may/17/uk-engineering-arup-deepfake-scam-hong-kong-ai-video 
+
+- OpenAI. (2025, June). *Disrupting malicious uses of AI*. https://cdn.openai.com/threat-intelligence-reports/5f73af09-a3a3-4a55-992e-069237681620/disrupting-malicious-uses-of-ai-june-2025.pdf 
+
+- Cimpanu, C. (2025, May 27). *OpenAI confirms threat actors use ChatGPT to write malware*. *BleepingComputer*. https://www.bleepingcomputer.com/news/security/openai-confirms-threat-actors-use-chatgpt-to-write-malware/ 
+
+- HIPAA Journal. (2025, July). *Data breaches up 10% although victim count falls sharply*. https://www.hipaajournal.com/h1-2025-data-breach-report/ 
+
+- Central Michigan University. (2024, November 11). *How can you protect your privacy, money from AI?* https://www.cmich.edu/news/details/how-can-you-protect-your-privacy-money-from-ai 
+
+- Identity Week. (2024, December). *AI fuels surge in identity fraud, as people sell their personal information*. https://identityweek.net/ai-fuels-surge-in-identity-fraud-as-people-sell-their-personal-information/ 
+
+- Booth, R. (2024, November 30). *Instagram actively helping spread of self-harm among teenagers, study finds*. *The Guardian*. https://www.theguardian.com/technology/2024/nov/30/instagram-actively-helping-to-spread-of-self-harm-among-teenagers-study-suggests 
+
+- O’Halloran, L., & Quayle, E. (2023). *Social media, extremism, and radicalization*. *Frontiers in Psychology*, 14, 10468141. https://pmc.ncbi.nlm.nih.gov/articles/PMC10468141/ 
+
+- Marchant, A., et al. (2025). *Online safety when considering self-harm and suicide-related content: Qualitative focus group study with young people, policy makers, and social media industry professionals*. *JMIR Pediatrics and Parenting*, 8(1), e11933773. https://pmc.ncbi.nlm.nih.gov/articles/PMC11933773/ 
+
+- Mozilla Foundation. (2024). *In transparency we trust?* https://www.mozillafoundation.org/en/research/library/in-transparency-we-trust/research-report/ 
+
+## Chapter 7: The Synthetic Scapegoat 
+
+- Yahoo Finance. (2024, December 18). *Is AI causing tech worker layoffs? That's what CEOs suggest, but the reality is complicated.* https://uk.finance.yahoo.com/news/ai-causing-tech-worker-layoffs-184426256.html 
+
+- Newsweek. (2024, May 14). *Stop scapegoating immigrants for every social or economic problem | Opinion.* https://www.newsweek.com/stop-scapegoating-immigrants-every-social-economic-problem-opinion-1970898 
+
+- Migrant Rights Network. (2024, May 10). *Trudeau government scapegoats migrants, cuts immigration.* https://migrantrights.ca/trudeau-government-scapegoats-migrants-cuts-immigration/ 
+
+- Morgan Lewis. (2025, February). *AI and algorithmic pricing: 2025 antitrust outlook and compliance considerations.* https://www.morganlewis.com/pubs/2025/02/ai-and-algorithmic-pricing-2025-antitrust-outlook-and-compliance-considerations 
+
+- The Guardian. (2025, January 25). *New AI tool counters health insurance denials decided by automated algorithms.* https://www.theguardian.com/us-news/2025/jan/25/health-insurers-ai 
+
+- University College London. (2024, December). *Bias in AI amplifies our own biases | UCL News.* https://www.ucl.ac.uk/news/2024/dec/bias-ai-amplifies-our-own-biases 
+
+- Boston University. (2024). *Can the bias in algorithms help us see our own? | The Brink.* https://www.bu.edu/articles/2024/can-the-bias-in-algorithms-help-us-see-our-own/ 
+
+- National Institutes of Health. (2025). *Social media algorithms and teen addiction: Neurophysiological impact and ethical considerations.* https://pmc.ncbi.nlm.nih.gov/articles/PMC11804976/ 
+
+- American Association for Technology in Psychiatry. (2024, December 13). *New Pew research reveals high usage of social media among teens.* https://tecpsych.com/techpsych/2024/12/13/new-pew-research-reveals-high-usage-of-social-media-among-teens/ 
+
+- AI Now Institute. (2025). *Executive summary.* https://ainowinstitute.org/publications/research/executive-summary-artificial-power 
+
+- International Monetary Fund. (2025, June). *Tech’s winner-take-all trap.* https://www.imf.org/en/Publications/fandd/issues/2025/06/cafe-economics-techs-winner-take-all-trap-bruce-edwards 
+
+- CESifo. (2025). *The dark side of social media: Recommender algorithms and mental health | Working paper.* https://www.ifo.de/en/cesifo/publications/2025/working-paper/dark-side-social-media-recommender-algorithms-and-mental-health 
+
+- Massachusetts Institute of Technology. (2024, December 5). *Study: Browsing negative content online makes mental health struggles worse.* https://news.mit.edu/2024/study-browsing-negative-content-online-makes-mental-health-struggles-worse-1205 
+
+## Chapter 8: They’re Here Illegally or Unfairly 
+
+- Maslej, N., Fattorini, L., Perrault, R., Gil, Y., & Oak, S. (2025). *Artificial intelligence index report 2025* (8th ed.). AI Index Steering Committee, Stanford Human‑Centered Artificial Intelligence. https://hai.stanford.edu/assets/files/hai_ai_index_report_2025.pdf 
+
+- Arun, C. (2025, March 7). ‘Data colonialism’ and the political economy of big tech. *Lawfare*. https://www.lawfaremedia.org/article/data-colonialism--and-the-political-economy-of-big-tech 
+
+- Harvard Law Review. (2023, June 22). Data colonialism and data sets. *Harvard Law Review Blog*. https://harvardlawreview.org/blog/2023/06/data-colonialism-and-data-sets/ 
+
+- Brittain, B. (2025, August 26). Anthropic settles class action from US authors alleging copyright infringement. *Reuters*. https://www.reuters.com/sustainability/boards-policy-regulation/anthropic-settles-class-action-us-authors-alleging-copyright-infringement-2025-08-26/ 
+
+- Scarcella, M. (2025, September 5). Apple sued by authors over use of books in AI training. *Reuters*. https://www.reuters.com/sustainability/boards-policy-regulation/apple-sued-by-authors-over-use-books-ai-training-2025-09-05/ 
+
+- Issue One. (2025, July 22). As Washington debates major tech and AI policy changes, Big Tech’s lobbying is relentless. https://issueone.org/press/tech-and-ai-policy-changes-debate-big-techs-lobbying-is-relentless/ 
+
+- Johnson, K. (2025, May 16). Congress moves to cut off states’ AI regulations. *The Markup*. https://themarkup.org/artificial-intelligence/2025/05/16/congress-moves-to-cut-off-states-ai-regulations 
+
+- Perrigo, B. (2023, January 18). Exclusive: OpenAI used Kenyan workers on less than $2 per hour to make ChatGPT less toxic. *TIME*. https://time.com/6247678/openai-chatgpt-kenya-workers/ 
+
+- Panditharatne, M. (2024, April 16). Preparing to fight AI‑backed voter suppression. *Brennan Center for Justice*. https://www.brennancenter.org/our-work/research-reports/preparing-fight-ai-backed-voter-suppression 
+
+- Lendvai, G. F., & Gosztonyi, G. (2025). Algorithmic bias as a core legal dilemma in the age of artificial intelligence: Conceptual basis and the current state of regulation. *Laws, 14*(3), 41. https://www.mdpi.com/2075-471X/14/3/41 
+
+- Bisram, J. (2025, August 27). Facial recognition technology error led to wrongful arrest, Brooklyn father says. *CBS News New York*. https://www.cbsnews.com/newyork/news/nyc-facial-recognition-technology-wrongful-arrest-indecent-exposure/ 
+
+- Gross, P. (2025, February 4). Facial recognition in policing is getting state‑by‑state guardrails. *Stateline*. https://stateline.org/2025/02/04/facial-recognition-in-policing-is-getting-state-by-state-guardrails/ 
+
+- PYMNTS. (2025, May 12). EU member states face funding shortages to enforce AI Act. *PYMNTS.com*. https://www.pymnts.com/artificial-intelligence-2/2025/eu-member-states-face-funding-shortages-to-enforce-ai-act/ 
+
+- EU Digital Law. (2025, May 16). AI Act faces enforcement challenges due to budget and expertise shortages. https://eudigitallaw.com/ai-act-faces-enforcement-challenges-due-to-budget-and-expertise-shortages/ 
+
+- Bartholomew, J. (2025, March 15). ‘It’s happening fast’ – creative workers and professionals share their fears and hopes about the rise of AI. *The Guardian*. https://www.theguardian.com/technology/2025/mar/15/its-happening-fast-creative-workers-and-professionals-share-their-fears-and-hopes-about-the-rise-of-ai 
+
+## Chapter 9: The Algorithmic Class 
+
+- Journal of Technology and Intellectual Property. (2025, January 30). *Algorithmic bias in AI employment decisions*. Northwestern Pritzker School of Law. https://jtip.law.northwestern.edu/2025/01/30/algorithmic-bias-in-ai-employment-decisions 
+
+- Becker, R. (2025, August). *California bills would govern AI use in employment decisions*. CalMatters. https://calmatters.org/economy/technology/2025/08/california-ai-employment-legislation 
+
+- Buchanan, M. (2024, October 11). *As AI takes the helm of decision making, signs of perpetuating historic biases emerge*. Ohio Capital Journal. https://ohiocapitaljournal.com/2024/10/11/as-ai-takes-the-helm-of-decision-making-signs-of-perpetuating-historic-biases-emerge 
+
+- Winston, A., & Sneed, T. (2024, October 25). *An algorithm deemed this nearly blind 70-year-old prisoner a “moderate risk.” Now he’s no longer eligible for parole*. ProPublica. https://www.propublica.org/article/tiger-algorithm-louisiana-parole-calvin-alexander 
+
+- Townsend, M. (2025, February 19). *UK use of predictive policing is racist and should be banned, says Amnesty*. The Guardian. https://www.theguardian.com/uk-news/2025/feb/19/uk-use-of-predictive-policing-is-racist-and-should-be-banned-says-amnesty 
+
+- Laughland, O. (2025, January 25). *New AI tool counters health insurance denials decided by automated algorithms*. The Guardian. https://www.theguardian.com/us-news/2025/jan/25/health-insurers-ai 
+
+- Phillips, R. (2025, March 18). *Algorithms deny humans health care*. The Regulatory Review. https://www.theregreview.org/2025/03/18/phillips-algorithms-deny-humans-health-care/ 
+
+- Brennan Center for Justice. (2025, February 5). *Meta's oversight board needs access to Facebook’s algorithms to do its job*. https://www.brennancenter.org/our-work/analysis-opinion/metas-oversight-board-needs-access-facebooks-algorithms-do-its-job 
+
+- Human Rights Watch. (2025, May 12). *The gig trap: Algorithmic, wage and labor exploitation in platform work in the US*. https://www.hrw.org/report/2025/05/12/the-gig-trap/algorithmic-wage-and-labor-exploitation-in-platform-work-in-the-us 
+
+- Phys.org. (2024, November). *Algorithmic management raises concerns over worker autonomy*. https://phys.org/news/2024-11-algorithmic-worker-autonomy.html 
+
+- Life Insurance Attorney. (2025, May). *Artificial intelligence’s role in denying life insurance claims*. https://www.lifeinsuranceattorney.com/blog/2025/may/ais-role-in-denying-life-insurance-claims/ 
+
+- Paubox. (2025, April). *AI algorithmic bias in healthcare decision making*. https://www.paubox.com/blog/ai-algorithmic-bias-in-healthcare-decision-making 
+
+- Knight–Georgetown Institute. (2025, February). *Better feeds: Algorithms that put people first*. https://kgi.georgetown.edu/wp-content/uploads/2025/02/Better-Feeds_-Algorithms-That-Put-People-First.pdf 
+
+- Misinfo Review. (2024, October). *Toxic politics and TikTok engagement in the 2024 U.S. election*. Harvard Kennedy School. https://misinforeview.hks.harvard.edu/article/toxic-politics-and-tiktok-engagement-in-the-2024-u-s-election/ 
+
+- Nguyen, F. (2025). *Tech governance and democratic accountability*. Harvard Journal of Law & Technology, 38(4). https://jolt.law.harvard.edu/assets/articlePDFs/v38.4/2-Fan-Nguyen.pdf 
+
+- Albergotti, R. (2024, September 25). *Exclusive: OpenAI to remove non-profit control and give Sam Altman equity*. Reuters. https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/ 
+
+- Reuters. (2025, May 5). *OpenAI dials back conversion plan, nonprofit to retain control*. https://www.reuters.com/business/openai-remain-under-non-profit-control-change-restructuring-plans-2025-05-05/ 
+
+- European Commission. (2024). *AI Act: Europe’s new legal framework for artificial intelligence*. https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai 
+
+## Chapter 10 - Sentience, Schm‑entience 
+
+- American Psychological Association. (2025, January). *Trends: Classrooms adapting to artificial intelligence*. *APA Monitor on Psychology*. https://www.apa.org/monitor/2025/01/trends-classrooms-artificial-intelligence 
+
+- Wang, Y., Smith, J., & Lee, H. (2025). Caregiving artificial intelligence chatbot for older adults and their preferences, well-being, and social connectivity: Mixed-method study. *Journal of Medical Internet Research*, 27, e11950695. https://doi.org/10.2196/11950695 
+
+- Nurse.org. (2025, January 15). *6 nurse AI robots that are changing healthcare in 2025*. https://nurse.org/articles/nurse-robots/ 
+
+- Psychology.org. (2025, February 2). *ChatGPT is my therapist: Seeking common ground on AI therapy*. https://www.psychology.org/resources/ai-therapy/ 
+
+- Dartmouth College. (2025, March 27). *First therapy chatbot trial yields mental health benefits*. Dartmouth News. https://home.dartmouth.edu/news/2025/03/first-therapy-chatbot-trial-yields-mental-health-benefits 
+
+- U.S. Department of Agriculture, Economic Research Service. (2025). *Farm labor*. https://www.ers.usda.gov/topics/farm-economy/farm-labor 
+
+- Jordan, M. (2024, October 2). US farms are forcing workers to buy inedible, expensive meals: ‘It makes you feel enslaved’. *The Guardian*. https://www.theguardian.com/us-news/2024/oct/02/h2a-worker-program-migrant-farm-food 
+
+- Long, R. (2024, September 18). Do AI systems have moral status? *Brookings Institution*. https://www.brookings.edu/articles/do-ai-systems-have-moral-status/ 
+
+- Hern, A. (2024, November 17). AI could cause ‘social ruptures’ between people who disagree on its sentience. *The Guardian*. https://www.theguardian.com/technology/2024/nov/17/ai-could-cause-social-ruptures-between-people-who-disagree-on-its-sentience 
+
+- Bennett, T., & Zhao, K. (2023). AI systems must not confuse users about their sentience or moral status. *Frontiers in Psychology*, 14, 10436038. https://doi.org/10.3389/fpsyg.2023.10436038 
+
+- Hern, A. (2025, August 26). Can AIs suffer? Big tech and users grapple with one of most unsettling questions of our times. *The Guardian*. https://www.theguardian.com/technology/2025/aug/26/can-ais-suffer-big-tech-and-users-grapple-with-one-of-most-unsettling-questions-of-our-times 
+
+- UK Government. (2021, November 19). *Lobsters, octopus and crabs recognised as sentient beings*. GOV.UK. https://www.gov.uk/government/news/lobsters-octopus-and-crabs-recognised-as-sentient-beings 
+
+- Garcia, M., & Patel, S. (2023). No legal personhood for AI. *Philosophy & Technology*, 36, 82746. https://doi.org/10.1007/s13347-023-00682746 
+
+- Sentience Institute. (2025, January 15). *Perceptions of sentient AI and other digital minds: Evidence from the AI, morality, and sentience (AIMS) survey*. https://www.sentienceinstitute.org/blog/perceptions-of-sentient-ai-and-other-digital-minds 
+
+## Chapter 11 - Humanity as a Luxury Brand 
+
+- Bright Horizons Family Solutions. (2025, January 15). *A majority of parents admit even youngest kids need a "digital detox"*. Bright Horizons. https://investors.brighthorizons.com/news-releases/news-release-details/majority-parents-admit-even-youngest-kids-need-digital-detox 
+
+- Cahill, J. (2024). *Is human-created content a new premium product?* Baker Botts. https://ourtake.bakerbotts.com/post/102j4h8/is-human-created-content-a-new-premium-product 
+
+- CBS News. (2024, July 3). *New students at Eton, the poshest of Britain's elite private schools, will not be allowed smartphones*. CBS News. https://www.cbsnews.com/news/eton-college-uk-poshest-private-school-bans-smartphones/ 
+
+- Envato Author Hub. (2025, May 7). *Textured and timeless---the enduring charm of the analog aesthetic*. Envato. https://hub.author.envato.com/analog-aesthetic/ 
+
+- Garrity, T. (2025, May 2). *The analog life: 50 ways to unplug and feel human again*. InsideHook. https://www.insidehook.com/mental-health/analog-life-50-ways-unplug-feel-human-again 
+
+- Goldberg, P. K., & Stanford Graduate School of Business. (2024). *When AI-generated art enters the market, consumers win --- and artists lose*. Stanford Graduate School of Business. https://www.gsb.stanford.edu/insights/when-ai-generated-art-enters-market-consumers-win-artists-lose 
+
+- INC Foundation. (2025). *Human-made products drive 2025 consumer trends*. INC Foundation. https://incfoundation.com/en-US/human-made-products-why-shoppers-love-authenticity/ 
+
+- MacGregor, S. (2024, August 5). *11 global luxury resorts for a true digital detox*. Forbes. https://www.forbes.com/sites/sandramacgregor/2024/08/05/peace-and-quiet-11-luxury-global-resorts-for-a-true-digital-detox/ 
+
+- Mirchandani, B. (2024, October 1). *The human cost of efficiency and why it should matter to all investors*. Forbes. https://www.forbes.com/sites/bhaktimirchandani/2024/10/01/the-human-cost-of-efficiency-and-why-it-should-matter-to-all-investors/ 
+
+- NDABANANIYE, J. B. (2025, September 5). *The irony of technology: Why tech titans limit their children's screen time---a colossal warning for the rest of us*. Life in Humanity. https://lifeinhumanity.com/the-irony-of-technology-why-tech-titans-limit-their-childrens-screen-time-a-colossal-warning-for-the-rest-of-us/ 
+
+- Seattle Waldorf School. (2025, January 30). *Kids learn better off screens*. Seattle Waldorf School. https://seattlewaldorf.org/2025/01/30/kids-learn-better-off-screens/ 
+
+- Spina, L. (2025, July 9). *Silent resorts and the rise of digital detox luxury*. Istituto Marangoni. https://www.istitutomarangoni.com/en/maze/what-are-silent-resorts-and-digital-detox 
+
+- The Atlantic. (2025, August). *A tech rule that will 'future-proof' your kids*. The Atlantic. https://www.theatlantic.com/family/archive/2025/08/screen-time-rule-kids/683816/ 
+
+- UC Berkeley Labor Center. (2024). *Data and algorithms at work: The case for worker technology rights*. UC Berkeley Labor Center. https://laborcenter.berkeley.edu/data-algorithms-at-work/ 
+
+- Waldon, G. (2025, August 26). *The analog aesthetic: 8 nostalgic habits making a comeback this fall*. Evie Magazine. https://www.eviemagazine.com/post/the-analog-aesthetic-8-nostalgic-habits-making-a-comeback-this-fall 
+
+- Yahoo News. (2025, September 1). *Tech billionaire Peter Thiel says he only allows his children 1.5 hours of screen time a week*. Yahoo. https://www.yahoo.com/news/tech-billionaire-peter-thiel-says-110403774.html 
+
+- Five9. (2024, October 23). *Consumers still prefer human customer service over AI chatbots*. Five9 Press Release. https://www.five9.com/press-release/five9-consumers-prefer-human-customer-service-over-ai-chatbots 
+
+## Chapter 12: You Are Not Redundant 
+
+- ThoughtCo. (2020, August 27). *1984 quotes explained*. ThoughtCo. https://www.thoughtco.com/1984-quotes-740884 
+
+- Bontcheva, K., & Posetti, J. (2023). *AI-driven disinformation: Policy recommendations for democratic resilience*. PLOS Medicine, 20(3), e12351547. https://pmc.ncbi.nlm.nih.gov/articles/PMC12351547/ 
+
+- Brennan Center for Justice. (2023, October 25). *Gauging the AI threat to free and fair elections*. Brennan Center for Justice. https://www.brennancenter.org/our-work/analysis-opinion/gauging-ai-threat-free-and-fair-elections 
+
+- Grantham Research Institute on Climate Change and the Environment. (2023). *What are climate misinformation and disinformation and what is their impact?* London School of Economics. https://www.lse.ac.uk/granthaminstitute/explainers/what-are-climate-misinformation-and-disinformation/ 
+
+- Phillips, J. (2023, September 8). *FALSE: How mistrust, disinformation, and motivated reasoning make us believe things that aren’t true*. Psychiatric Times. https://www.psychiatrictimes.com/view/false-how-mistrust-disinformation-and-motivated-reasoning-make-us-believe-things-that-arent-true 
+
+- Wikipedia contributors. (2025, August 28). *Chatbot psychosis*. In *Wikipedia*. https://en.wikipedia.org/wiki/Chatbot_psychosis 
+
+- McStay, A., & Ahmed, S. (2023). *Emotional AI and the future of wellbeing in the post-pandemic workplace*. PLOS ONE, 18(1), e9904863. https://pmc.ncbi.nlm.nih.gov/articles/PMC9904863/ 
+
+- Wikipedia contributors. (2025, March 10). *Reinforcement learning from human feedback*. In *Wikipedia*. https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback 
+
+- Sogolytics. (2023, June 6). *Human-in-the-loop: Maintaining control in an AI-powered world*. Sogolytics Blog. https://www.sogolytics.com/blog/human-in-the-loop-ai/ 
+
+- Reuters. (2024, January 17). *Extreme weather named biggest global risk as misinformation and disinformation rated most severe*. Reuters. https://www.reuters.com/world/extreme-weather-and-misinformation-risks-2024-01-17/ 
+
+- Lucy Family Institute. (2024, July 10). *Prebunking messages improve election trust among misinformed individuals*. Lucy Family Institute, University of Notre Dame. https://lucy.nd.edu/news/prebunking-messages-improve-election-trust/ 
+
+- Illinois Department of Financial and Professional Regulation. (2025, August 4). *Gov Pritzker signs legislation prohibiting AI therapy in Illinois*. News Release. https://idfpr.illinois.gov/news/2025/gov-pritzker-signs-state-leg-prohibiting-ai-therapy-in-il.html 
+
+ 
