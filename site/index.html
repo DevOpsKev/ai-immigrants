@@ -5,131 +5,496 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>AI Immigrants — The Bloody Algos Are Here</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Inter:wght@400;900&display=swap" rel="stylesheet">
-  <script defer src="https://cloud.umami.is/script.js" data-website-id="7bbe86ef-22a6-4c56-a0b5-bab4fb8cd0d4"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500&family=IBM+Plex+Mono:wght@300;400&display=swap" rel="stylesheet">
   <style>
+    :root {
+      --black: #0f0f0f;
+      --off-black: #1a1a1a;
+      --cream: #F0EBE0;
+      --cream-dark: #D8D2C4;
+      --rust: #8C3A2B;
+      --rust-light: #A34433;
+      --steel: #3D6070;
+      --steel-light: #4E7585;
+      --text: #c8c2b4;
+      --text-dim: #8a8478;
+      --serif: 'Libre Baskerville', Georgia, serif;
+      --sans: 'DM Sans', sans-serif;
+      --mono: 'IBM Plex Mono', monospace;
+    }
+
     * { margin: 0; padding: 0; box-sizing: border-box; }
 
     body {
-      background: #DEDEDE;
+      background: var(--black);
+      color: var(--text);
+      font-family: var(--sans);
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* === HERO === */
+    .hero {
       min-height: 100vh;
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: center;
-      font-family: 'Inter', sans-serif;
-      padding: 3rem 1.5rem;
+      padding: 4rem 1.5rem;
+      text-align: center;
+      position: relative;
+      background: #DEDEDE;
     }
 
-    .container {
-      max-width: 900px;
-      width: 100%;
+    .hero::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 10%;
+      right: 10%;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, #bbb, transparent);
+    }
+
+    .hero-inner {
+      max-width: 800px;
       display: flex;
       flex-direction: column;
       align-items: center;
-      gap: 3rem;
+      gap: 2.5rem;
     }
 
     .mockup {
       width: 100%;
-      max-width: 700px;
+      max-width: 550px;
     }
 
     .mockup img {
-      width: calc(100% + 2px);
-      margin: -1px;
+      width: 100%;
       height: auto;
       display: block;
     }
 
-    .content {
-      text-align: center;
-      max-width: 600px;
-    }
-
-    h1 {
-      font-family: 'Montserrat', sans-serif;
-      font-weight: 900;
-      font-size: clamp(2rem, 5vw, 3.2rem);
-      color: #1a1a1a;
-      line-height: 1.1;
-      margin-bottom: 0.5rem;
+    .hero h1 {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: clamp(3.5rem, 10vw, 7rem);
+      font-weight: 400;
+      color: var(--off-black);
+      line-height: 0.95;
+      letter-spacing: 0.02em;
       text-transform: uppercase;
-      letter-spacing: 0.03em;
     }
 
-    .subtitle {
-      font-weight: 900;
-      font-size: clamp(1rem, 2.5vw, 1.3rem);
-      color: #444;
-      margin-bottom: 1.5rem;
+    .hero .strapline {
+      font-family: var(--sans);
+      font-style: italic;
+      font-weight: 500;
+      font-size: clamp(1.1rem, 2.5vw, 1.5rem);
+      color: var(--rust-light);
+      letter-spacing: 0.01em;
     }
 
-    .tagline {
-      font-size: 1rem;
+    .hero .synopsis {
+      font-family: var(--serif);
+      font-size: 1.05rem;
+      line-height: 1.8;
       color: #555;
-      line-height: 1.6;
-      margin-bottom: 2rem;
+      max-width: 580px;
     }
 
-    .buttons {
+    .download-row {
       display: flex;
+      gap: 1rem;
       flex-wrap: wrap;
       justify-content: center;
-      gap: 1rem;
+      margin-top: 0.5rem;
     }
 
-    .download-btn {
+    .btn {
       display: inline-block;
-      background: #e63926;
-      color: #fff;
-      font-family: 'Inter', sans-serif;
-      font-weight: 900;
-      font-size: 1.1rem;
+      font-family: var(--sans);
+      font-weight: 700;
+      font-size: 1rem;
       text-decoration: none;
-      padding: 1rem 2.5rem;
-      letter-spacing: 0.02em;
-      transition: background 0.2s ease, transform 0.2s ease;
+      padding: 0.9rem 2.2rem;
+      letter-spacing: 0.03em;
+      transition: all 0.2s ease;
     }
 
-    .download-btn:hover {
-      background: #c42f1f;
+    .btn-primary {
+      background: var(--steel);
+      color: #fff;
+    }
+
+    .btn-primary:hover {
+      background: var(--rust);
       transform: translateY(-2px);
     }
 
-    .author {
-      margin-top: 2rem;
-      font-size: 0.9rem;
-      color: #777;
+    .btn-secondary {
+      background: transparent;
+      color: var(--off-black);
+      border: 1px solid #999;
     }
 
-    .author a {
-      color: #e63926;
+    .btn-secondary:hover {
+      border-color: var(--off-black);
+      transform: translateY(-2px);
+    }
+
+    .btn-spotify {
+      background: transparent;
+      color: #777;
+      border: 1px solid #aaa;
+      font-size: 0.9rem;
+      padding: 0.7rem 1.8rem;
+    }
+
+    .btn-spotify:hover {
+      border-color: var(--steel);
+      color: var(--steel);
+    }
+
+    /* === SECTIONS === */
+    .section {
+      padding: 5rem 1.5rem;
+      position: relative;
+    }
+
+    .section::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 10%;
+      right: 10%;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, #222, transparent);
+    }
+
+    .section:last-of-type::after {
+      display: none;
+    }
+
+    .section-inner {
+      max-width: 640px;
+      margin: 0 auto;
+    }
+
+    .section-cream {
+      background: var(--cream);
+      color: #444;
+    }
+
+    .section-cream::after {
+      background: linear-gradient(90deg, transparent, var(--cream-dark), transparent);
+    }
+
+    .section-cream h2 {
+      color: var(--off-black);
+    }
+
+    .section-cream .chapter-title {
+      color: var(--off-black);
+    }
+
+    .section-cream .chapter-desc {
+      color: #666;
+    }
+
+    h2 {
+      font-family: var(--serif);
+      font-size: clamp(1.5rem, 3.5vw, 2.2rem);
+      font-weight: 700;
+      color: var(--cream);
+      margin-bottom: 1.5rem;
+      line-height: 1.2;
+    }
+
+    .accent-rule {
+      width: 48px;
+      height: 3px;
+      background: var(--rust);
+      margin-bottom: 2rem;
+    }
+
+    .section p {
+      font-family: var(--serif);
+      font-size: 1.02rem;
+      line-height: 1.8;
+      margin-bottom: 1.25rem;
+    }
+
+    .section p:last-child {
+      margin-bottom: 0;
+    }
+
+    /* === CHAPTERS === */
+    .chapters {
+      margin-top: 2rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1.75rem;
+    }
+
+    .chapter {
+      display: flex;
+      align-items: baseline;
+      gap: 1.25rem;
+    }
+
+    .chapter-num {
+      font-family: var(--mono);
+      font-size: 0.8rem;
+      font-weight: 400;
+      color: var(--rust);
+      flex-shrink: 0;
+      min-width: 2rem;
+    }
+
+    .section-cream .chapter-num {
+      color: var(--rust);
+    }
+
+    .chapter-body {
+      flex: 1;
+    }
+
+    .chapter-title {
+      font-family: var(--serif);
+      font-weight: 700;
+      font-size: 1.05rem;
+      color: var(--cream);
+      margin-bottom: 0.3rem;
+    }
+
+    .chapter-desc {
+      font-family: var(--sans);
+      font-size: 0.92rem;
+      line-height: 1.55;
+      color: var(--text-dim);
+    }
+
+    /* === ABOUT === */
+    .about-links {
+      margin-top: 1.5rem;
+      display: flex;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+    }
+
+    .section-cream .about-links a {
+      color: var(--rust);
+    }
+
+    .section-cream .about-links a:hover {
+      color: var(--steel);
+    }
+
+    .about-links a {
+      color: var(--rust);
+      text-decoration: none;
+      font-family: var(--sans);
+      font-weight: 500;
+      font-size: 0.95rem;
+      transition: color 0.2s;
+    }
+
+    .about-links a:hover {
+      color: var(--steel-light);
+    }
+
+    .other-work {
+      margin-top: 2rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--cream-dark);
+      font-family: var(--sans);
+      font-size: 0.9rem;
+      color: #888;
+    }
+
+    .other-work a {
+      color: var(--rust);
       text-decoration: none;
     }
 
-    .author a:hover {
-      text-decoration: underline;
+    /* === PULL QUOTE === */
+    .pull-quote {
+      font-family: var(--serif);
+      font-style: italic;
+      font-size: clamp(1.15rem, 2.5vw, 1.4rem);
+      color: var(--rust);
+      line-height: 1.5;
+      border-left: 3px solid var(--rust);
+      padding-left: 1.25rem;
+      margin: 2.5rem 0;
+    }
+
+    /* === FOOTER === */
+    footer {
+      text-align: center;
+      padding: 2.5rem 1.5rem;
+      font-family: var(--sans);
+      font-size: 0.85rem;
+      color: #555;
+    }
+
+    footer a {
+      color: var(--rust);
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      color: var(--steel);
     }
   </style>
 </head>
 <body>
-  <div class="container">
-    <div class="mockup">
-      <img src="book-mockup.png" alt="AI Immigrants">
-    </div>
-    <div class="content">
-      <h1>AI Immigrants</h1>
-      <p class="subtitle">The Bloody Algos Are Here</p>
-      <p class="tagline">A provocative exploration of AI ethics through the lens of immigration.</p>
-      <p class="tagline">AI Immigrants examines how the fears we project onto artificial intelligence—job theft, cultural erosion, loss of control—echo centuries of anti-immigrant sentiment. The parallels aren't coincidental.</p>
-      <p class="tagline">What if the algorithm is just the latest distraction from harder questions about corporate power, labour rights, and democratic accountability?</p>
-      <div class="buttons">
-        <a href="https://aiibook.blob.core.windows.net/downloads/ai-immigrants.epub" class="download-btn">Download Free EPUB</a>
-        <a href="https://open.spotify.com/show/4kmEP6R0vaa5mXVnltwJ0j?si=dc85edc5df984df2" class="download-btn" target="_blank" rel="noopener noreferrer">🎧 Listen on Spotify</a>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-inner">
+      <div class="mockup">
+        <img src="book-mockup.png" alt="AI Immigrants book cover mockup">
       </div>
-      <p class="author">By <a href="https://kevinryan.io">Kevin Ryan</a></p>
+      <h1>AI Immigrants</h1>
+      <p class="strapline">"The Bloody Algos Are Here!"</p>
+      <p class="synopsis">Artificial intelligence isn't just another technology — it's a new kind of immigrant. One that doesn't sleep, doesn't eat, and learns faster than we do. This book asks the question no algorithm can answer: who owns the future?</p>
+      <div class="download-row">
+        <a href="https://aiibook.blob.core.windows.net/downloads/ai-immigrants.epub" class="btn btn-primary">Download Free EPUB</a>
+      </div>
+      <div class="download-row">
+        <a href="https://open.spotify.com/show/4kmEP6R0vaa5mXVnltwJ0j?si=dc85edc5df984df2" class="btn btn-spotify">🎧 Listen on Spotify</a>
+      </div>
     </div>
-  </div>
+  </section>
+
+  <!-- WHAT THIS BOOK IS -->
+  <section class="section">
+    <div class="section-inner">
+      <div class="accent-rule"></div>
+      <p>Drawing parallels between today's algorithms and yesterday's immigrants, AI Immigrants explores who wins, who loses, and what it really means to stay human in an automated age.</p>
+      <p>From deep-fake politics to data colonialism, from algorithmic landlords to digital day-labourers — this is part social commentary, part survival guide, and a manifesto for keeping humanity indispensable.</p>
+      <div class="pull-quote">The fears we project onto artificial intelligence — job theft, cultural erosion, loss of control — echo centuries of anti-immigrant sentiment. The parallels aren't coincidental.</div>
+      <p>What if the algorithm is just the latest distraction from harder questions about corporate power, labour rights, and democratic accountability?</p>
+    </div>
+  </section>
+
+  <!-- CHAPTERS -->
+  <section class="section section-cream">
+    <div class="section-inner">
+      <div class="accent-rule"></div>
+      <h2>Twelve chapters</h2>
+      <div class="chapters">
+        <div class="chapter">
+          <span class="chapter-num">01</span>
+          <div class="chapter-body">
+            <div class="chapter-title">They're Taking Our Jobs</div>
+            <div class="chapter-desc">Automation, displacement, and the age-old panic of being replaced — why this story keeps repeating with every wave of "outsiders."</div>
+          </div>
+        </div>
+        <div class="chapter">
+          <span class="chapter-num">02</span>
+          <div class="chapter-body">
+            <div class="chapter-title">Over Here and Overpaid</div>
+            <div class="chapter-desc">Who really benefits from AI's productivity — and who shoulders the costs? Power, profit, and precarity.</div>
+          </div>
+        </div>
+        <div class="chapter">
+          <span class="chapter-num">03</span>
+          <div class="chapter-body">
+            <div class="chapter-title">They Don't Integrate or Fit In</div>
+            <div class="chapter-desc">AI feels foreign, like it doesn't speak our language. The black box problem — and what happens when we demand transparency.</div>
+          </div>
+        </div>
+        <div class="chapter">
+          <span class="chapter-num">04</span>
+          <div class="chapter-body">
+            <div class="chapter-title">Ruining Our Culture</div>
+            <div class="chapter-desc">Machine-generated art, media, and language. From plagiarism panic to new forms of creativity. What we fear losing — and what we might gain.</div>
+          </div>
+        </div>
+        <div class="chapter">
+          <span class="chapter-num">05</span>
+          <div class="chapter-body">
+            <div class="chapter-title">They Overload Our Public Services</div>
+            <div class="chapter-desc">AI managing hospital triage, grading exams, deciding who gets a loan. When human needs meet machine logic.</div>
+          </div>
+        </div>
+        <div class="chapter">
+          <span class="chapter-num">06</span>
+          <div class="chapter-body">
+            <div class="chapter-title">They Bring Crime and Disorder</div>
+            <div class="chapter-desc">Deepfakes, scams, surveillance, social media stoking division. AI can be dangerous — but the real criminals are human.</div>
+          </div>
+        </div>
+        <div class="chapter">
+          <span class="chapter-num">07</span>
+          <div class="chapter-body">
+            <div class="chapter-title">The Synthetic Scapegoat</div>
+            <div class="chapter-desc">How AI becomes the convenient "other" to blame — just as immigrants once were — for disruption, decline, and moral panic.</div>
+          </div>
+        </div>
+        <div class="chapter">
+          <span class="chapter-num">08</span>
+          <div class="chapter-body">
+            <div class="chapter-title">They're Here Illegally or Unfairly</div>
+            <div class="chapter-desc">Bias in justice systems, AI cutting in line, regulations with no teeth. Who holds the algorithms accountable?</div>
+          </div>
+        </div>
+        <div class="chapter">
+          <span class="chapter-num">09</span>
+          <div class="chapter-body">
+            <div class="chapter-title">The Algorithm Class</div>
+            <div class="chapter-desc">A new ruling elite: invisible, unaccountable, and post-human. Systems that govern without faces — and why that matters.</div>
+          </div>
+        </div>
+        <div class="chapter">
+          <span class="chapter-num">10</span>
+          <div class="chapter-body">
+            <div class="chapter-title">Sentience, Schm-entience</div>
+            <div class="chapter-desc">We don't ask the migrant picking our fruit if he dreams in English. Why obsessing over consciousness distracts from the real stakes.</div>
+          </div>
+        </div>
+        <div class="chapter">
+          <span class="chapter-num">11</span>
+          <div class="chapter-body">
+            <div class="chapter-title">Humanity as a Luxury Brand</div>
+            <div class="chapter-desc">Elites shield their children from screens while the rest are swiped into servitude. The commodification of "real" human work, art, and presence.</div>
+          </div>
+        </div>
+        <div class="chapter">
+          <span class="chapter-num">12</span>
+          <div class="chapter-body">
+            <div class="chapter-title">You Are Not Redundant</div>
+            <div class="chapter-desc">The manifesto chapter. Why this book was written — for humans, by one (allegedly). A reminder that the future is about what we choose to value.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="section">
+    <div class="section-inner">
+      <div class="accent-rule"></div>
+      <h2>About the author</h2>
+      <p>Kevin Ryan has worked in technology for thirty years — long enough to have seen every wave of disruption sold as revolution and every revolution dismissed as hype. He has built platforms for CERN, the BBC, the Financial Times, and NatWest, and spent the last decade helping enterprises adopt the tools that are now rewriting the rules of work.</p>
+      <p>At NatWest, he led the pilot that put AI coding agents into the hands of engineers and delivered the recommendations to the board on what to do about it. He knows how the machines work. He also knows who gets to decide how they're used — and who doesn't get asked.</p>
+      <p>He is based between London and Budapest, which means he is an immigrant too.</p>
+      <div class="other-work">
+        His second book, <a href="https://sddbook.com">Spec Driven Development</a>, is a methodology for engineering with AI agents. He writes about both sides of the same question: what these systems can do, and what we should let them.
+      </div>
+      <div class="about-links">
+        <a href="https://kevinryan.io">kevinryan.io</a>
+        <a href="https://www.linkedin.com/in/devopskev/">LinkedIn</a>
+        <a href="https://github.com/DevOpsKev">GitHub</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>&copy; 2026 <a href="https://kevinryan.io">Kevin Ryan</a>. Licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>.</p>
+  </footer>
+
 </body>
 </html>
