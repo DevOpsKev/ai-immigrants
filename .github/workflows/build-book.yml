@@ -23,11 +23,21 @@ jobs:
       - name: Build EPUB
         run: python3 scripts/build-epub.py
 
-      - name: Upload artifact
+      - name: Build PDFs
+        run: |
+          python3 scripts/build-pdf.py \
+            --variant both \
+            --git-hash "${{ github.sha }}" \
+            --build-date "$(date -u +%Y-%m-%d)"
+
+      - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
           name: ai-immigrants
-          path: output/ai-immigrants.epub
+          path: |
+            output/ai-immigrants.epub
+            output/ai-immigrants.pdf
+            output/ai-immigrants-print.pdf
 
       - name: Azure Login
         if: github.ref == 'refs/heads/main' && github.event_name == 'push'
@@ -38,10 +48,15 @@ jobs:
       - name: Deploy to Blob Storage
         if: github.ref == 'refs/heads/main' && github.event_name == 'push'
         run: |
-          az storage blob upload \
-            --account-name ${{ secrets.STORAGE_ACCOUNT_NAME }} \
-            --container-name downloads \
-            --name ai-immigrants.epub \
-            --file output/ai-immigrants.epub \
-            --overwrite \
-            --auth-mode login
+          for file in ai-immigrants.epub ai-immigrants.pdf ai-immigrants-print.pdf; do
+            if [ -f "output/$file" ]; then
+              az storage blob upload \
+                --account-name ${{ secrets.STORAGE_ACCOUNT_NAME }} \
+                --container-name downloads \
+                --name "$file" \
+                --file "output/$file" \
+                --overwrite \
+                --auth-mode login
+              echo "Deployed: $file"
+            fi
+          done

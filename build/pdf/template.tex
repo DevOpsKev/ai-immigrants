@@ -1,0 +1,176 @@
+% AI Immigrants LaTeX Template
+% Trim: 5.25" x 8" — standard trade paperback
+
+$if(print)$
+\documentclass[$fontsize$,twoside,openright]{book}
+$else$
+\documentclass[$fontsize$,oneside]{book}
+$endif$
+
+% === PAGE GEOMETRY (5.25 x 8 trim) ===
+$if(print)$
+\usepackage[
+  paperwidth=5.25in,
+  paperheight=8in,
+  inner=0.75in,
+  outer=0.55in,
+  top=0.7in,
+  bottom=0.7in,
+  footskip=0.3in
+]{geometry}
+$else$
+\usepackage[
+  paperwidth=5.25in,
+  paperheight=8in,
+  left=0.65in,
+  right=0.65in,
+  top=0.7in,
+  bottom=0.7in,
+  footskip=0.3in
+]{geometry}
+$endif$
+
+% === FONTS ===
+\usepackage{fontspec}
+\setmainfont{$mainfont$}[Ligatures=TeX]
+\setsansfont{$sansfont$}[Scale=0.95, Ligatures=TeX]
+
+% === LANGUAGE ===
+\usepackage{polyglossia}
+\setmainlanguage[variant=british]{english}
+
+% === COLOURS ===
+\usepackage{xcolor}
+$if(print)$
+\definecolor{accent}{cmyk}{0, 0, 0, 1}
+\definecolor{linkcolor}{cmyk}{0, 0, 0, 1}
+$else$
+\definecolor{accent}{HTML}{1A1A1A}
+\definecolor{linkcolor}{HTML}{2563EB}
+$endif$
+
+% === HYPERLINKS ===
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=linkcolor,
+  urlcolor=linkcolor,
+  citecolor=linkcolor,
+  pdfauthor={$author$},
+  pdftitle={$title$: $subtitle$},
+  bookmarksnumbered=true,
+  bookmarksopen=true
+}
+
+% === URL LINE BREAKING ===
+\usepackage{xurl}
+\sloppy
+\emergencystretch=3em
+
+% === HEADERS & FOOTERS ===
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancypagestyle{plain}{
+  \fancyhf{}
+  \fancyfoot[C]{\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+% === CHAPTER STYLING ===
+\usepackage{titlesec}
+
+% Suppress auto-numbering (chapter titles already include numbers)
+\setcounter{secnumdepth}{-1}
+
+\titleformat{\chapter}[block]
+  {\raggedright\sffamily\LARGE\bfseries}
+  {}
+  {0pt}
+  {}
+\titlespacing*{\chapter}{0pt}{40pt}{20pt}
+
+\titleformat{\section}
+  {\raggedright\sffamily\bfseries\Large}
+  {}{0pt}{}
+
+\titleformat{\subsection}
+  {\raggedright\sffamily\bfseries\large}
+  {}{0pt}{}
+
+% === IMAGES, TABLES, TYPOGRAPHY ===
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{microtype}
+\usepackage{csquotes}
+
+% Prevent widows and orphans
+\widowpenalty=10000
+\clubpenalty=10000
+
+% Block paragraphs: no indent, space between
+\setlength{\parskip}{\baselineskip}
+\setlength{\parindent}{0pt}
+
+% === PANDOC COMPATIBILITY ===
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+$if(highlighting-macros)$
+$highlighting-macros$
+$endif$
+
+$if(csl-refs)$
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newenvironment{CSLReferences}[2]{}{}
+$endif$
+
+% === COVER PAGE SUPPORT ===
+\usepackage{tikz}
+
+% ============================================================
+\begin{document}%
+$if(include-cover)$%
+\thispagestyle{empty}%
+\begin{tikzpicture}[remember picture,overlay]%
+\node[inner sep=0pt] at (current page.center) {%
+  \includegraphics[width=\paperwidth,height=\paperheight]{$cover-image$}%
+};%
+\end{tikzpicture}%
+\clearpage%
+$endif$%
+\frontmatter
+
+% --- Half-title ---
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+  {\sffamily\LARGE $title$}
+\end{center}
+\vspace*{\fill}
+\cleardoublepage
+
+% --- Title page ---
+\thispagestyle{empty}
+\vspace*{2cm}
+\begin{center}
+  {\sffamily\Huge\bfseries $title$}\\[0.8cm]
+  {\sffamily\Large\itshape $subtitle$}\\[2cm]
+  {\large $author$}\\[4cm]
+  {\normalsize First Edition, $date$}
+\end{center}
+\vspace*{\fill}
+\cleardoublepage
+
+% --- Body (front matter content, then TOC, then chapters) ---
+$body$
+
+\backmatter
+\end{document}
