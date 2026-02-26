@@ -175,11 +175,23 @@ def assemble_markdown() -> str:
 
     # --- Back matter ---
     print("  Back matter:")
-    sections.append(raw_latex("\\backmatter"))
+    sections.append(raw_latex("\\backmatter\n\\raggedright"))
     for f in BACK_MATTER:
         content = read_file(f)
         if content is None:
             continue
+        # Insert zero-width spaces after / and - in URLs so LaTeX can break them
+        def add_url_breaks(match):
+            url = match.group(0)
+            url = url.replace("/", "/\u200B")
+            url = url.replace("-", "-\u200B")
+            url = url.replace("_", "_\u200B")
+            return url
+        content = re.sub(
+            r'https?://[^\s)\]>]+',
+            add_url_breaks,
+            content,
+        )
         sections.append(preprocess_back_matter(content))
         print(f"    [ok] {f}")
 

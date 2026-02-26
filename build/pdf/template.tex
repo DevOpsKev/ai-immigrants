@@ -67,6 +67,19 @@ $endif$
 \sloppy
 \emergencystretch=3em
 
+% Force URLs to break at absolutely any character
+\makeatletter
+\g@addto@macro\UrlBreaks{\UrlOrds}
+\makeatother
+
+% Reduce URL font size to help long references fit
+\renewcommand{\UrlFont}{\small\ttfamily}
+
+% Allow line breaks more freely
+\tolerance=9999
+\hyphenpenalty=50
+\exhyphenpenalty=50
+
 % === HEADERS & FOOTERS ===
 \usepackage{fancyhdr}
 \pagestyle{fancy}
