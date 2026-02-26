@@ -27,6 +27,7 @@ CONTENT_DIR = REPO_ROOT / "content"
 METADATA_FILE = REPO_ROOT / "metadata.yaml"
 TEMPLATE_FILE = REPO_ROOT / "build" / "pdf" / "template.tex"
 COVER_IMAGE = REPO_ROOT / "assets" / "front-cover-pdf.png"
+BACK_COVER_IMAGE = REPO_ROOT / "assets" / "back-cover-pdf.png"
 OUTPUT_DIR = REPO_ROOT / "output"
 BOOK_TITLE = "ai-immigrants"
 
@@ -257,6 +258,13 @@ def build_pdf(variant: str, git_hash: str | None, build_date: str | None):
                 [
                     "--variable=include-cover:true",
                     f"--variable=cover-image:{COVER_IMAGE}",
+                ]
+            )
+        if BACK_COVER_IMAGE.exists():
+            cmd.extend(
+                [
+                    "--variable=include-back-cover:true",
+                    f"--variable=back-cover-image:{BACK_COVER_IMAGE}",
                 ]
             )
 

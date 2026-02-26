@@ -185,5 +185,15 @@ $endif$%
 % --- Body (front matter content, then TOC, then chapters) ---
 $body$
 
+$if(include-back-cover)$
+\clearpage
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture,overlay]%
+\node[inner sep=0pt] at (current page.center) {%
+  \includegraphics[width=\paperwidth,height=\paperheight]{$back-cover-image$}%
+};%
+\end{tikzpicture}%
+$endif$
+
 \backmatter
 \end{document}
